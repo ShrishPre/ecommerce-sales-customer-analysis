@@ -8,7 +8,7 @@ Coming from a commerce background, I wanted to build something practical that co
 
 ---
 
-## 🎯 Objective
+## Objective
 
 The main goal of this project was to:
 
@@ -20,7 +20,7 @@ The main goal of this project was to:
 
 ---
 
-## 🗂 Dataset Used
+## Dataset Used
 
 The dataset contains:
 
@@ -33,9 +33,7 @@ The dataset contains:
 
 These tables were connected using proper relationships (One-to-Many model) inside Power BI.
 
----
-
-## 🧠 SQL Work
+## SQL Work
 
 I used SQL to:
 
@@ -51,18 +49,18 @@ This helped me understand how raw data is converted into meaningful business ins
 
 ---
 
-## 📊 Power BI Dashboard
+## Power BI Dashboard
 
 I created three main report pages:
 
-### 1️⃣ Order Report
+### Order Report
 - Total Orders
 - Cancelled Orders
 - Late Deliveries
 - Orders by City
 - Orders by Category
 
-### 2️⃣ Sales Report
+### Sales Report
 - Total Sales
 - Total Quantity
 - Average Order Value (AOV)
@@ -71,7 +69,7 @@ I created three main report pages:
 - Monthly Sales Trend
 - Top Products by Revenue
 
-### 3️⃣ Customer Report
+### Customer Report
 - Total Customers
 - Active Customers
 - Repeat Customers
@@ -88,19 +86,21 @@ I also added slicers for:
 - Gender
 
 This makes the dashboard interactive and more business-ready.
+<img width="1366" height="768" alt="Screenshot (490)" src="https://github.com/user-attachments/assets/e335b23a-c2e9-4699-9f23-b257e52ac65f" />
+<img width="1366" height="768" alt="Screenshot (491)" src="https://github.com/user-attachments/assets/7c26cbd6-2e3b-4976-b812-bbf0ac64c2d8" />
+<img width="1366" height="768" alt="Screenshot (492)" src="https://github.com/user-attachments/assets/7036c116-17b9-4ae9-a602-b7de56ad5332" />
+<img width="281" height="549" alt="Screenshot (493)" src="https://github.com/user-attachments/assets/91e26a11-7f86-4432-bbdd-7bbf3d2a122c" />
 
 ---
 
-## 💡 Key Learnings
+## Key Learnings
 
 - A small group of customers contribute a large portion of revenue.
 - Repeat customers are very important for long-term growth.
 - Some product categories perform consistently better.
 - Monitoring cancelled and late deliveries is important for customer satisfaction.
 
----
-
-## 🛠 Tools Used
+## Tools Used
 
 - SQL (for data analysis)
 - Power BI (for dashboard creation)
