@@ -1,0 +1,3501 @@
+Review_ID,Order_ID,Rating,Feedback
+1,1309,2,Late delivery
+2,526,3,Good quality
+3,614,4,Average
+4,4092,5,Good quality
+5,965,2,Excellent
+6,687,1,Good quality
+7,1873,5,Poor packaging
+8,2687,3,Poor packaging
+9,4969,1,Excellent
+10,3053,4,Excellent
+11,1845,3,Good quality
+12,999,5,Poor packaging
+13,596,1,Late delivery
+14,4584,1,Good quality
+15,3087,5,Average
+16,1952,4,Late delivery
+17,1107,2,Excellent
+18,2904,2,Excellent
+19,4245,1,Good quality
+20,3028,4,Late delivery
+21,2803,2,Late delivery
+22,3495,3,Excellent
+23,630,5,Late delivery
+24,4060,5,Average
+25,1021,3,Late delivery
+26,1178,3,Poor packaging
+27,3520,5,Late delivery
+28,1959,4,Late delivery
+29,4774,1,Excellent
+30,4438,4,Excellent
+31,1274,5,Good quality
+32,2898,4,Excellent
+33,4474,4,Poor packaging
+34,2864,5,Average
+35,4879,5,Average
+36,2344,3,Average
+37,673,4,Good quality
+38,2283,1,Excellent
+39,2195,3,Poor packaging
+40,3593,1,Average
+41,3334,2,Excellent
+42,4808,4,Poor packaging
+43,3121,1,Average
+44,1211,4,Late delivery
+45,1228,3,Excellent
+46,1014,3,Late delivery
+47,928,5,Late delivery
+48,1659,3,Average
+49,1969,3,Average
+50,2209,3,Good quality
+51,4049,5,Late delivery
+52,2931,4,Poor packaging
+53,4401,4,Excellent
+54,2825,3,Late delivery
+55,1628,2,Excellent
+56,1248,3,Poor packaging
+57,390,5,Poor packaging
+58,4293,2,Good quality
+59,3811,3,Poor packaging
+60,829,2,Late delivery
+61,2433,4,Average
+62,750,5,Average
+63,2627,1,Poor packaging
+64,1364,1,Excellent
+65,4116,4,Good quality
+66,3370,5,Average
+67,1252,3,Good quality
+68,3104,3,Good quality
+69,1118,4,Poor packaging
+70,1617,3,Good quality
+71,2562,3,Average
+72,4377,2,Average
+73,1219,4,Average
+74,4788,1,Excellent
+75,4911,3,Excellent
+76,4552,4,Late delivery
+77,294,4,Excellent
+78,2991,2,Excellent
+79,106,4,Average
+80,4751,1,Average
+81,3339,4,Poor packaging
+82,3259,1,Average
+83,2365,2,Poor packaging
+84,814,4,Excellent
+85,4142,4,Excellent
+86,1861,1,Poor packaging
+87,1742,4,Poor packaging
+88,913,1,Average
+89,1173,3,Average
+90,977,5,Average
+91,3029,5,Good quality
+92,2653,1,Poor packaging
+93,3346,3,Average
+94,4411,3,Good quality
+95,1017,4,Late delivery
+96,2643,2,Poor packaging
+97,392,4,Poor packaging
+98,1429,1,Excellent
+99,1837,3,Average
+100,4995,3,Good quality
+101,808,5,Late delivery
+102,1548,2,Average
+103,3804,3,Good quality
+104,2086,3,Poor packaging
+105,3418,2,Good quality
+106,360,2,Average
+107,1573,5,Excellent
+108,1649,2,Average
+109,1874,3,Excellent
+110,1764,3,Average
+111,2582,5,Average
+112,1209,2,Excellent
+113,4344,3,Late delivery
+114,2523,3,Late delivery
+115,4646,5,Average
+116,2940,4,Good quality
+117,1068,5,Late delivery
+118,3616,4,Poor packaging
+119,4844,5,Good quality
+120,1086,2,Late delivery
+121,4406,3,Average
+122,3366,1,Poor packaging
+123,66,1,Poor packaging
+124,3975,3,Poor packaging
+125,3739,3,Good quality
+126,17,5,Excellent
+127,4882,4,Excellent
+128,4061,3,Average
+129,2285,4,Late delivery
+130,1130,3,Poor packaging
+131,4048,1,Average
+132,2756,1,Poor packaging
+133,1461,2,Late delivery
+134,423,4,Poor packaging
+135,2508,5,Poor packaging
+136,1123,1,Average
+137,1145,5,Good quality
+138,4590,4,Excellent
+139,3196,4,Good quality
+140,1352,1,Poor packaging
+141,1435,1,Average
+142,2637,4,Good quality
+143,2984,3,Excellent
+144,3133,4,Late delivery
+145,726,3,Late delivery
+146,3919,1,Late delivery
+147,4170,1,Excellent
+148,934,1,Poor packaging
+149,529,3,Late delivery
+150,2349,5,Excellent
+151,64,5,Late delivery
+152,1654,1,Poor packaging
+153,3415,1,Late delivery
+154,210,5,Poor packaging
+155,1402,4,Poor packaging
+156,3812,3,Late delivery
+157,2295,3,Average
+158,2288,1,Late delivery
+159,3591,1,Late delivery
+160,722,5,Good quality
+161,270,2,Good quality
+162,240,2,Excellent
+163,1312,1,Average
+164,1642,4,Good quality
+165,955,3,Poor packaging
+166,3993,3,Average
+167,4715,2,Poor packaging
+168,4034,1,Excellent
+169,1012,2,Excellent
+170,3012,3,Good quality
+171,4994,2,Excellent
+172,470,4,Good quality
+173,3717,5,Average
+174,1851,5,Excellent
+175,3356,2,Late delivery
+176,1736,5,Poor packaging
+177,2851,5,Good quality
+178,4781,1,Good quality
+179,3485,2,Good quality
+180,740,5,Good quality
+181,3137,1,Poor packaging
+182,95,5,Poor packaging
+183,1810,3,Good quality
+184,2843,5,Good quality
+185,1902,2,Excellent
+186,4180,4,Poor packaging
+187,4329,4,Poor packaging
+188,2003,5,Average
+189,1968,1,Late delivery
+190,3536,5,Excellent
+191,4581,5,Excellent
+192,2550,1,Excellent
+193,319,3,Good quality
+194,680,1,Average
+195,2570,2,Late delivery
+196,4250,1,Poor packaging
+197,841,2,Good quality
+198,557,1,Late delivery
+199,1409,1,Late delivery
+200,1637,5,Late delivery
+201,3715,5,Average
+202,2607,4,Late delivery
+203,4515,2,Poor packaging
+204,3527,1,Excellent
+205,502,3,Good quality
+206,1508,4,Average
+207,2791,5,Poor packaging
+208,3959,5,Excellent
+209,3041,1,Good quality
+210,3687,4,Poor packaging
+211,2104,1,Late delivery
+212,4713,1,Late delivery
+213,581,5,Poor packaging
+214,4748,1,Excellent
+215,905,2,Poor packaging
+216,1901,3,Poor packaging
+217,4351,3,Excellent
+218,1915,4,Poor packaging
+219,1982,5,Excellent
+220,4635,2,Good quality
+221,3828,2,Good quality
+222,3514,1,Excellent
+223,2591,2,Late delivery
+224,3949,5,Good quality
+225,2161,1,Excellent
+226,3709,5,Average
+227,4174,3,Good quality
+228,1360,2,Average
+229,3538,2,Good quality
+230,1347,2,Good quality
+231,1177,2,Poor packaging
+232,2188,1,Good quality
+233,2490,3,Average
+234,2628,2,Late delivery
+235,3818,3,Average
+236,3984,3,Average
+237,2930,1,Poor packaging
+238,2522,4,Average
+239,1384,4,Average
+240,4350,4,Good quality
+241,1640,1,Late delivery
+242,3847,4,Good quality
+243,2667,1,Late delivery
+244,4410,1,Excellent
+245,4939,4,Late delivery
+246,603,3,Poor packaging
+247,4703,3,Excellent
+248,1053,4,Poor packaging
+249,3879,1,Poor packaging
+250,664,3,Late delivery
+251,113,2,Poor packaging
+252,811,1,Poor packaging
+253,403,5,Poor packaging
+254,3075,3,Good quality
+255,3874,3,Average
+256,511,2,Poor packaging
+257,4007,3,Good quality
+258,637,3,Poor packaging
+259,3171,2,Poor packaging
+260,2445,1,Average
+261,4668,1,Excellent
+262,4324,5,Poor packaging
+263,140,4,Excellent
+264,3572,4,Poor packaging
+265,3452,5,Good quality
+266,2745,2,Excellent
+267,417,4,Poor packaging
+268,3636,2,Poor packaging
+269,4978,3,Excellent
+270,3217,4,Good quality
+271,3940,4,Good quality
+272,4938,4,Late delivery
+273,4338,5,Excellent
+274,4238,5,Excellent
+275,711,1,Late delivery
+276,4402,5,Average
+277,2817,5,Excellent
+278,1404,3,Late delivery
+279,3482,4,Average
+280,3902,5,Good quality
+281,2176,3,Late delivery
+282,468,5,Good quality
+283,3622,4,Good quality
+284,1778,3,Late delivery
+285,3720,4,Excellent
+286,28,4,Late delivery
+287,987,4,Poor packaging
+288,2381,3,Late delivery
+289,2498,2,Excellent
+290,1255,2,Excellent
+291,1777,2,Good quality
+292,55,4,Average
+293,927,2,Excellent
+294,3661,5,Average
+295,2137,3,Good quality
+296,4192,5,Poor packaging
+297,4765,1,Poor packaging
+298,4923,4,Excellent
+299,283,2,Late delivery
+300,4327,4,Average
+301,1868,5,Poor packaging
+302,2263,1,Average
+303,2227,5,Excellent
+304,4150,3,Good quality
+305,3548,1,Excellent
+306,4226,5,Late delivery
+307,2954,5,Late delivery
+308,3116,5,Late delivery
+309,3277,3,Late delivery
+310,4246,3,Average
+311,3519,1,Good quality
+312,4631,1,Good quality
+313,2705,5,Excellent
+314,2196,2,Good quality
+315,4506,3,Excellent
+316,2041,1,Average
+317,1489,3,Poor packaging
+318,3702,3,Late delivery
+319,2531,2,Good quality
+320,4979,5,Poor packaging
+321,1875,3,Average
+322,3314,2,Late delivery
+323,3955,3,Good quality
+324,3677,4,Average
+325,2958,2,Excellent
+326,1590,1,Average
+327,3649,2,Poor packaging
+328,1584,1,Excellent
+329,1716,2,Poor packaging
+330,4943,3,Late delivery
+331,1907,2,Good quality
+332,2430,4,Excellent
+333,1726,3,Poor packaging
+334,3864,4,Excellent
+335,3662,4,Poor packaging
+336,149,3,Late delivery
+337,3024,5,Excellent
+338,2001,2,Excellent
+339,953,4,Poor packaging
+340,4213,4,Poor packaging
+341,1926,5,Average
+342,3419,1,Average
+343,2509,2,Average
+344,2330,4,Poor packaging
+345,1593,2,Excellent
+346,1607,4,Poor packaging
+347,4388,2,Poor packaging
+348,2338,3,Late delivery
+349,4219,5,Average
+350,2024,4,Average
+351,4085,4,Late delivery
+352,3243,5,Poor packaging
+353,3523,3,Excellent
+354,856,2,Excellent
+355,666,4,Average
+356,1132,2,Average
+357,4476,4,Poor packaging
+358,1942,1,Late delivery
+359,3729,4,Excellent
+360,3499,3,Good quality
+361,1906,2,Good quality
+362,2478,5,Average
+363,4129,1,Poor packaging
+364,1398,2,Poor packaging
+365,3114,4,Poor packaging
+366,1600,4,Average
+367,4206,5,Poor packaging
+368,3188,2,Late delivery
+369,1589,1,Poor packaging
+370,536,4,Good quality
+371,812,3,Poor packaging
+372,4919,1,Late delivery
+373,3067,3,Poor packaging
+374,2406,3,Poor packaging
+375,695,5,Good quality
+376,3263,1,Excellent
+377,491,3,Average
+378,3841,1,Poor packaging
+379,4354,2,Average
+380,464,2,Average
+381,2852,2,Average
+382,764,5,Late delivery
+383,623,2,Excellent
+384,4753,4,Average
+385,1789,2,Average
+386,3722,1,Late delivery
+387,3860,2,Late delivery
+388,1811,1,Poor packaging
+389,3178,5,Excellent
+390,4270,4,Poor packaging
+391,2181,3,Average
+392,499,1,Excellent
+393,2610,3,Good quality
+394,1904,3,Average
+395,4706,4,Excellent
+396,4307,5,Average
+397,4499,3,Average
+398,947,3,Good quality
+399,923,2,Late delivery
+400,1401,3,Poor packaging
+401,1164,1,Excellent
+402,903,1,Good quality
+403,3757,3,Average
+404,2221,3,Good quality
+405,2640,4,Late delivery
+406,4932,2,Excellent
+407,2457,3,Average
+408,2816,1,Average
+409,4286,2,Poor packaging
+410,2887,1,Good quality
+411,1813,2,Late delivery
+412,186,2,Excellent
+413,2297,4,Excellent
+414,3942,4,Average
+415,2361,1,Late delivery
+416,1459,1,Excellent
+417,803,5,Excellent
+418,772,1,Good quality
+419,2838,4,Average
+420,790,5,Good quality
+421,1991,3,Late delivery
+422,3151,4,Poor packaging
+423,4279,1,Good quality
+424,4750,1,Poor packaging
+425,4084,5,Poor packaging
+426,3736,2,Average
+427,4759,2,Average
+428,3204,4,Late delivery
+429,4866,4,Good quality
+430,2010,3,Poor packaging
+431,3257,4,Good quality
+432,784,4,Excellent
+433,1896,4,Good quality
+434,286,5,Good quality
+435,3432,2,Good quality
+436,3321,2,Late delivery
+437,566,3,Excellent
+438,4714,5,Late delivery
+439,3976,2,Average
+440,160,1,Late delivery
+441,2138,1,Excellent
+442,4317,3,Excellent
+443,2684,1,Excellent
+444,3316,1,Excellent
+445,994,3,Good quality
+446,4088,1,Average
+447,4613,1,Poor packaging
+448,3965,1,Excellent
+449,1147,5,Good quality
+450,1513,3,Average
+451,1410,3,Late delivery
+452,3150,1,Good quality
+453,405,4,Poor packaging
+454,2248,5,Excellent
+455,4883,3,Late delivery
+456,3854,5,Late delivery
+457,2681,5,Late delivery
+458,3306,5,Average
+459,3978,1,Poor packaging
+460,3688,3,Late delivery
+461,4316,1,Poor packaging
+462,1045,3,Late delivery
+463,3799,5,Good quality
+464,4278,1,Late delivery
+465,3875,3,Poor packaging
+466,1560,4,Good quality
+467,1765,1,Good quality
+468,3308,4,Good quality
+469,1914,5,Good quality
+470,2961,1,Good quality
+471,3363,3,Good quality
+472,4276,1,Average
+473,2644,5,Late delivery
+474,3435,1,Late delivery
+475,3503,2,Good quality
+476,1375,2,Excellent
+477,325,3,Good quality
+478,398,2,Excellent
+479,3684,5,Poor packaging
+480,2822,1,Late delivery
+481,1152,3,Average
+482,3313,2,Excellent
+483,4564,3,Poor packaging
+484,4177,5,Good quality
+485,1317,5,Good quality
+486,174,3,Good quality
+487,1371,5,Excellent
+488,1549,4,Late delivery
+489,3343,3,Good quality
+490,2493,2,Poor packaging
+491,1048,2,Poor packaging
+492,1830,1,Average
+493,1700,4,Average
+494,1678,4,Late delivery
+495,315,2,Average
+496,4848,5,Excellent
+497,1303,5,Excellent
+498,4368,4,Good quality
+499,2446,1,Good quality
+500,124,5,Average
+501,3138,3,Excellent
+502,2403,3,Excellent
+503,3704,3,Good quality
+504,2691,5,Poor packaging
+505,929,4,Excellent
+506,4455,5,Late delivery
+507,91,4,Average
+508,147,3,Average
+509,3008,3,Average
+510,3655,5,Average
+511,1057,1,Good quality
+512,4299,3,Late delivery
+513,2660,3,Average
+514,3249,2,Late delivery
+515,89,3,Good quality
+516,2032,3,Late delivery
+517,3669,3,Good quality
+518,3763,2,Excellent
+519,886,4,Average
+520,2793,1,Average
+521,4600,3,Excellent
+522,3162,5,Poor packaging
+523,1667,2,Poor packaging
+524,4419,3,Good quality
+525,2094,3,Poor packaging
+526,883,5,Late delivery
+527,2978,4,Average
+528,3826,1,Poor packaging
+529,636,5,Good quality
+530,4805,2,Average
+531,758,3,Excellent
+532,1433,1,Late delivery
+533,3203,3,Late delivery
+534,4323,4,Good quality
+535,677,2,Excellent
+536,441,2,Poor packaging
+537,1439,3,Average
+538,82,2,Poor packaging
+539,116,4,Good quality
+540,602,4,Late delivery
+541,2669,3,Late delivery
+542,1035,5,Excellent
+543,2693,4,Poor packaging
+544,2368,5,Good quality
+545,3408,1,Excellent
+546,4873,5,Excellent
+547,873,2,Late delivery
+548,2479,1,Excellent
+549,1623,1,Poor packaging
+550,1570,2,Poor packaging
+551,1838,2,Late delivery
+552,4681,5,Good quality
+553,3821,5,Average
+554,3061,5,Poor packaging
+555,3085,1,Excellent
+556,4363,3,Late delivery
+557,3212,3,Excellent
+558,2078,2,Excellent
+559,3904,5,Good quality
+560,273,1,Late delivery
+561,702,3,Excellent
+562,2530,2,Late delivery
+563,226,2,Excellent
+564,2936,3,Average
+565,1479,2,Excellent
+566,662,4,Excellent
+567,3301,1,Late delivery
+568,3982,4,Late delivery
+569,1487,2,Average
+570,3365,2,Good quality
+571,4091,3,Late delivery
+572,799,3,Excellent
+573,915,5,Poor packaging
+574,1411,1,Poor packaging
+575,471,5,Excellent
+576,168,5,Good quality
+577,3796,5,Average
+578,1725,3,Late delivery
+579,4378,4,Excellent
+580,3783,3,Poor packaging
+581,2873,1,Excellent
+582,435,1,Poor packaging
+583,4775,3,Average
+584,1886,1,Average
+585,2208,2,Late delivery
+586,4364,5,Excellent
+587,1734,1,Late delivery
+588,3036,4,Poor packaging
+589,1626,4,Excellent
+590,1064,5,Excellent
+591,3608,3,Average
+592,2402,1,Poor packaging
+593,2556,2,Poor packaging
+594,4545,3,Late delivery
+595,1286,2,Excellent
+596,4384,5,Average
+597,703,1,Average
+598,4955,5,Poor packaging
+599,2593,1,Average
+600,1194,1,Poor packaging
+601,2762,5,Good quality
+602,2025,5,Excellent
+603,4456,3,Average
+604,3367,1,Good quality
+605,3577,5,Late delivery
+606,3113,4,Poor packaging
+607,2551,5,Excellent
+608,2826,3,Poor packaging
+609,2335,5,Good quality
+610,3214,4,Late delivery
+611,2476,5,Average
+612,1504,4,Late delivery
+613,2612,3,Good quality
+614,718,3,Good quality
+615,625,2,Excellent
+616,4313,1,Late delivery
+617,2788,1,Excellent
+618,4729,5,Excellent
+619,1408,1,Good quality
+620,3107,5,Late delivery
+621,4458,1,Late delivery
+622,4573,3,Poor packaging
+623,725,2,Excellent
+624,2284,5,Good quality
+625,2118,1,Good quality
+626,694,1,Poor packaging
+627,4224,4,Average
+628,3143,2,Late delivery
+629,3562,1,Good quality
+630,4486,4,Good quality
+631,4026,4,Poor packaging
+632,1563,2,Good quality
+633,3933,2,Poor packaging
+634,4147,2,Good quality
+635,3889,4,Late delivery
+636,2203,1,Poor packaging
+637,937,4,Late delivery
+638,888,4,Poor packaging
+639,4295,1,Average
+640,2056,1,Excellent
+641,4847,3,Excellent
+642,262,2,Good quality
+643,3109,4,Average
+644,4874,3,Average
+645,3814,4,Excellent
+646,23,4,Poor packaging
+647,3456,4,Poor packaging
+648,4929,5,Good quality
+649,2603,5,Late delivery
+650,1885,2,Excellent
+651,4152,1,Late delivery
+652,150,5,Poor packaging
+653,1235,2,Average
+654,411,4,Late delivery
+655,1682,3,Good quality
+656,1070,5,Late delivery
+657,866,3,Poor packaging
+658,1758,5,Excellent
+659,588,1,Excellent
+660,1823,3,Late delivery
+661,4166,4,Excellent
+662,1143,4,Average
+663,2351,1,Late delivery
+664,550,1,Poor packaging
+665,1341,1,Poor packaging
+666,3105,2,Late delivery
+667,1475,5,Late delivery
+668,125,4,Poor packaging
+669,2159,2,Good quality
+670,689,5,Average
+671,3936,5,Average
+672,3534,3,Average
+673,3332,2,Late delivery
+674,3091,1,Good quality
+675,2418,5,Excellent
+676,2317,4,Excellent
+677,4595,1,Excellent
+678,3920,3,Excellent
+679,2844,4,Average
+680,2759,4,Average
+681,4039,1,Excellent
+682,49,3,Good quality
+683,1290,3,Late delivery
+684,2021,1,Late delivery
+685,4817,3,Excellent
+686,3650,3,Late delivery
+687,1634,1,Poor packaging
+688,1311,3,Good quality
+689,998,2,Good quality
+690,4977,2,Late delivery
+691,774,1,Poor packaging
+692,2205,5,Late delivery
+693,1349,2,Excellent
+694,4096,3,Average
+695,598,3,Excellent
+696,575,5,Late delivery
+697,4296,3,Excellent
+698,971,3,Poor packaging
+699,1403,3,Late delivery
+700,910,2,Average
+701,4965,2,Excellent
+702,2544,2,Poor packaging
+703,2075,2,Late delivery
+704,4017,3,Late delivery
+705,7,1,Late delivery
+706,2512,2,Average
+707,693,1,Excellent
+708,1372,2,Good quality
+709,4516,1,Average
+710,2148,1,Late delivery
+711,707,2,Good quality
+712,3911,1,Poor packaging
+713,668,4,Excellent
+714,4504,5,Poor packaging
+715,3044,5,Excellent
+716,2677,2,Good quality
+717,1785,3,Poor packaging
+718,1647,2,Late delivery
+719,796,1,Late delivery
+720,4475,4,Excellent
+721,1932,1,Late delivery
+722,2184,5,Average
+723,3059,3,Late delivery
+724,4194,5,Poor packaging
+725,4274,5,Excellent
+726,3866,3,Average
+727,1163,1,Poor packaging
+728,4574,2,Good quality
+729,2042,5,Late delivery
+730,1576,1,Good quality
+731,3130,3,Late delivery
+732,935,4,Excellent
+733,182,2,Excellent
+734,4521,1,Excellent
+735,2013,1,Average
+736,1090,1,Late delivery
+737,4816,2,Poor packaging
+738,3558,1,Average
+739,3559,3,Good quality
+740,752,3,Late delivery
+741,4374,4,Late delivery
+742,4731,2,Late delivery
+743,3062,4,Good quality
+744,849,3,Poor packaging
+745,4105,2,Poor packaging
+746,3064,1,Poor packaging
+747,1673,3,Good quality
+748,4880,3,Good quality
+749,4799,1,Late delivery
+750,2698,5,Average
+751,1389,3,Excellent
+752,2318,1,Poor packaging
+753,1484,3,Good quality
+754,3545,5,Excellent
+755,4097,1,Good quality
+756,2924,5,Poor packaging
+757,4132,1,Good quality
+758,4616,1,Excellent
+759,1657,2,Poor packaging
+760,1419,5,Late delivery
+761,1406,5,Excellent
+762,2733,4,Excellent
+763,1723,2,Late delivery
+764,2486,5,Good quality
+765,2355,4,Good quality
+766,3628,1,Good quality
+767,96,4,Excellent
+768,2475,5,Good quality
+769,11,4,Good quality
+770,3326,1,Average
+771,2192,1,Poor packaging
+772,2202,4,Late delivery
+773,515,1,Poor packaging
+774,3501,4,Late delivery
+775,4686,5,Poor packaging
+776,2876,1,Poor packaging
+777,1543,2,Average
+778,422,2,Good quality
+779,2304,3,Average
+780,3579,3,Good quality
+781,2408,5,Good quality
+782,2282,4,Excellent
+783,4258,4,Excellent
+784,671,3,Average
+785,4502,2,Late delivery
+786,3127,1,Poor packaging
+787,2572,5,Average
+788,3637,3,Good quality
+789,3934,4,Poor packaging
+790,2014,3,Poor packaging
+791,2151,1,Poor packaging
+792,1304,5,Excellent
+793,744,1,Good quality
+794,1761,2,Poor packaging
+795,448,1,Good quality
+796,917,2,Average
+797,245,2,Good quality
+798,967,4,Average
+799,4497,4,Poor packaging
+800,3416,1,Excellent
+801,1092,3,Poor packaging
+802,342,1,Good quality
+803,656,1,Average
+804,4022,4,Good quality
+805,3997,1,Average
+806,3000,1,Late delivery
+807,3290,2,Good quality
+808,3547,2,Average
+809,2468,1,Late delivery
+810,650,4,Good quality
+811,76,3,Late delivery
+812,1646,5,Good quality
+813,3033,2,Excellent
+814,4786,4,Poor packaging
+815,4415,3,Average
+816,4028,3,Good quality
+817,4035,2,Late delivery
+818,1361,1,Excellent
+819,4493,2,Late delivery
+820,4897,3,Average
+821,260,5,Average
+822,1073,1,Good quality
+823,3239,4,Good quality
+824,4186,4,Excellent
+825,3445,2,Excellent
+826,2495,2,Average
+827,2397,4,Poor packaging
+828,178,4,Average
+829,1773,1,Late delivery
+830,3380,3,Good quality
+831,512,3,Excellent
+832,1857,5,Late delivery
+833,845,3,Poor packaging
+834,173,4,Excellent
+835,1400,2,Good quality
+836,1884,5,Poor packaging
+837,2200,3,Average
+838,2350,5,Poor packaging
+839,3772,4,Poor packaging
+840,4651,1,Late delivery
+841,2535,5,Excellent
+842,3449,4,Excellent
+843,1302,3,Average
+844,658,5,Poor packaging
+845,3973,2,Average
+846,4762,1,Average
+847,960,3,Poor packaging
+848,3498,1,Excellent
+849,4483,5,Average
+850,3731,2,Late delivery
+851,4222,3,Excellent
+852,480,5,Good quality
+853,1284,5,Excellent
+854,498,1,Average
+855,538,1,Late delivery
+856,2945,1,Good quality
+857,2823,2,Late delivery
+858,4300,5,Excellent
+859,3915,5,Average
+860,2666,2,Late delivery
+861,3831,1,Late delivery
+862,1514,4,Average
+863,500,5,Excellent
+864,3252,3,Excellent
+865,2810,2,Late delivery
+866,2239,3,Good quality
+867,3187,3,Late delivery
+868,4311,2,Excellent
+869,61,1,Excellent
+870,3625,5,Good quality
+871,475,3,Excellent
+872,1202,2,Excellent
+873,619,3,Good quality
+874,1937,5,Poor packaging
+875,3353,2,Average
+876,387,1,Poor packaging
+877,2121,1,Good quality
+878,4442,1,Average
+879,2752,1,Late delivery
+880,1936,3,Poor packaging
+881,3388,2,Late delivery
+882,1505,1,Average
+883,4303,2,Average
+884,2265,1,Poor packaging
+885,4664,4,Good quality
+886,3898,3,Excellent
+887,3603,5,Late delivery
+888,951,2,Late delivery
+889,3549,4,Average
+890,1222,2,Average
+891,81,5,Late delivery
+892,1718,3,Poor packaging
+893,1722,3,Poor packaging
+894,3706,3,Late delivery
+895,1358,5,Poor packaging
+896,274,1,Excellent
+897,1029,2,Average
+898,1278,5,Poor packaging
+899,4131,1,Poor packaging
+900,4868,1,Excellent
+901,4124,2,Good quality
+902,3146,4,Average
+903,2420,2,Good quality
+904,1535,5,Late delivery
+905,255,4,Late delivery
+906,2336,2,Poor packaging
+907,2690,2,Excellent
+908,4593,2,Poor packaging
+909,4705,5,Good quality
+910,1486,5,Late delivery
+911,2663,3,Late delivery
+912,1802,1,Average
+913,3492,1,Poor packaging
+914,235,3,Excellent
+915,4496,2,Poor packaging
+916,2880,5,Average
+917,1867,5,Average
+918,3515,1,Late delivery
+919,2447,3,Poor packaging
+920,1307,1,Late delivery
+921,1879,2,Poor packaging
+922,943,4,Average
+923,3348,5,Late delivery
+924,4335,4,Good quality
+925,69,5,Average
+926,4665,4,Average
+927,369,5,Poor packaging
+928,4209,2,Average
+929,428,2,Excellent
+930,3237,2,Good quality
+931,2386,3,Average
+932,975,2,Poor packaging
+933,4416,3,Good quality
+934,3043,4,Poor packaging
+935,1528,5,Late delivery
+936,2289,3,Poor packaging
+937,4962,3,Excellent
+938,3309,2,Late delivery
+939,916,1,Late delivery
+940,4881,4,Late delivery
+941,863,1,Poor packaging
+942,3673,5,Average
+943,4473,1,Excellent
+944,2011,4,Poor packaging
+945,2968,1,Late delivery
+946,3278,1,Good quality
+947,4875,1,Late delivery
+948,347,2,Excellent
+949,2706,4,Average
+950,3505,3,Good quality
+951,4445,3,Average
+952,3983,1,Poor packaging
+953,1859,4,Good quality
+954,4529,1,Excellent
+955,1985,2,Good quality
+956,3362,4,Excellent
+957,4155,5,Late delivery
+958,2117,4,Poor packaging
+959,721,4,Late delivery
+960,1509,1,Average
+961,877,3,Good quality
+962,2670,5,Late delivery
+963,4887,3,Excellent
+964,2497,2,Excellent
+965,477,2,Excellent
+966,1843,2,Poor packaging
+967,2767,4,Late delivery
+968,3553,4,Late delivery
+969,4736,1,Late delivery
+970,187,3,Excellent
+971,476,1,Excellent
+972,2586,4,Late delivery
+973,1395,5,Good quality
+974,3626,1,Poor packaging
+975,1554,2,Excellent
+976,4136,5,Excellent
+977,410,4,Average
+978,2026,3,Excellent
+979,1502,1,Poor packaging
+980,429,3,Average
+981,1237,5,Excellent
+982,370,5,Average
+983,2461,1,Late delivery
+984,4992,1,Average
+985,2828,2,Average
+986,2769,5,Good quality
+987,634,3,Good quality
+988,2133,4,Excellent
+989,1040,2,Good quality
+990,1357,4,Poor packaging
+991,771,1,Poor packaging
+992,1912,3,Late delivery
+993,2754,3,Poor packaging
+994,3145,2,Poor packaging
+995,4309,2,Excellent
+996,3270,3,Poor packaging
+997,1154,1,Good quality
+998,908,1,Late delivery
+999,691,2,Poor packaging
+1000,1388,2,Good quality
+1001,2164,2,Excellent
+1002,1449,3,Poor packaging
+1003,1800,1,Good quality
+1004,3132,2,Late delivery
+1005,4981,1,Excellent
+1006,2090,3,Average
+1007,1195,4,Average
+1008,161,3,Poor packaging
+1009,3424,1,Late delivery
+1010,2990,4,Poor packaging
+1011,1745,1,Good quality
+1012,4041,5,Good quality
+1013,1863,2,Excellent
+1014,4559,5,Good quality
+1015,1169,4,Excellent
+1016,2833,3,Late delivery
+1017,473,2,Late delivery
+1018,2331,4,Poor packaging
+1019,2641,5,Average
+1020,1978,3,Excellent
+1021,3568,1,Good quality
+1022,3897,1,Late delivery
+1023,2275,4,Late delivery
+1024,3050,1,Late delivery
+1025,1684,3,Late delivery
+1026,199,5,Poor packaging
+1027,848,2,Good quality
+1028,4975,5,Late delivery
+1029,4716,1,Excellent
+1030,1809,1,Late delivery
+1031,1141,5,Excellent
+1032,2029,2,Poor packaging
+1033,2903,4,Excellent
+1034,4782,2,Excellent
+1035,1571,4,Good quality
+1036,3063,3,Poor packaging
+1037,4385,5,Excellent
+1038,1853,4,Average
+1039,3411,5,Excellent
+1040,2683,1,Average
+1041,3837,2,Poor packaging
+1042,715,2,Poor packaging
+1043,2737,1,Average
+1044,322,4,Poor packaging
+1045,271,4,Average
+1046,4556,3,Good quality
+1047,196,1,Average
+1048,3532,3,Late delivery
+1049,27,3,Excellent
+1050,4790,2,Late delivery
+1051,1919,3,Average
+1052,3385,2,Poor packaging
+1053,3200,2,Late delivery
+1054,175,2,Poor packaging
+1055,2191,2,Late delivery
+1056,2432,2,Average
+1057,214,3,Late delivery
+1058,1111,2,Good quality
+1059,1133,1,Late delivery
+1060,4827,1,Average
+1061,2934,1,Excellent
+1062,681,4,Average
+1063,2278,2,Poor packaging
+1064,237,5,Excellent
+1065,763,1,Poor packaging
+1066,2002,1,Average
+1067,869,3,Late delivery
+1068,1568,4,Good quality
+1069,936,5,Good quality
+1070,4227,1,Late delivery
+1071,4087,3,Excellent
+1072,2346,3,Excellent
+1073,813,4,Good quality
+1074,1316,3,Average
+1075,3330,1,Good quality
+1076,3238,5,Good quality
+1077,918,2,Good quality
+1078,4451,1,Excellent
+1079,833,2,Average
+1080,2214,4,Excellent
+1081,1334,5,Average
+1082,2820,5,Good quality
+1083,4027,5,Late delivery
+1084,938,3,Average
+1085,4163,4,Poor packaging
+1086,4111,1,Late delivery
+1087,1072,3,Good quality
+1088,4845,2,Late delivery
+1089,1000,5,Good quality
+1090,4855,5,Excellent
+1091,93,1,Late delivery
+1092,444,2,Excellent
+1093,3122,2,Good quality
+1094,2039,5,Average
+1095,2857,2,Average
+1096,157,2,Average
+1097,4256,1,Good quality
+1098,1892,3,Poor packaging
+1099,1469,4,Good quality
+1100,87,1,Average
+1101,3723,5,Late delivery
+1102,2394,2,Average
+1103,483,3,Excellent
+1104,3929,2,Excellent
+1105,4452,2,Poor packaging
+1106,4833,4,Poor packaging
+1107,4934,3,Poor packaging
+1108,2154,2,Good quality
+1109,2179,4,Excellent
+1110,3410,3,Excellent
+1111,737,3,Late delivery
+1112,1624,3,Excellent
+1113,3510,1,Late delivery
+1114,3305,1,Average
+1115,3769,1,Excellent
+1116,4123,5,Average
+1117,2710,5,Excellent
+1118,4628,3,Excellent
+1119,2861,3,Poor packaging
+1120,872,4,Poor packaging
+1121,1897,4,Good quality
+1122,3088,3,Late delivery
+1123,3401,2,Average
+1124,3215,3,Excellent
+1125,859,2,Excellent
+1126,806,4,Average
+1127,819,1,Late delivery
+1128,4598,2,Excellent
+1129,4892,4,Poor packaging
+1130,1633,2,Good quality
+1131,2426,4,Late delivery
+1132,1770,4,Excellent
+1133,3999,5,Good quality
+1134,1650,3,Average
+1135,4067,3,Average
+1136,1537,5,Average
+1137,3251,3,Late delivery
+1138,2747,2,Excellent
+1139,3125,2,Average
+1140,364,1,Good quality
+1141,4269,1,Good quality
+1142,3345,4,Good quality
+1143,1977,4,Poor packaging
+1144,1354,4,Poor packaging
+1145,3303,5,Excellent
+1146,3262,2,Excellent
+1147,970,2,Poor packaging
+1148,1927,2,Late delivery
+1149,2082,4,Average
+1150,2552,3,Good quality
+1151,314,3,Average
+1152,3477,2,Excellent
+1153,3225,3,Good quality
+1154,885,3,Late delivery
+1155,4935,5,Average
+1156,3943,3,Excellent
+1157,2911,3,Excellent
+1158,4970,5,Poor packaging
+1159,815,5,Good quality
+1160,4889,5,Excellent
+1161,1327,5,Average
+1162,952,5,Late delivery
+1163,80,4,Late delivery
+1164,579,4,Poor packaging
+1165,854,5,Late delivery
+1166,4471,2,Late delivery
+1167,4310,3,Excellent
+1168,4985,2,Excellent
+1169,1930,5,Late delivery
+1170,1448,3,Good quality
+1171,3358,3,Average
+1172,120,3,Excellent
+1173,3518,2,Excellent
+1174,4745,3,Excellent
+1175,761,1,Good quality
+1176,3291,5,Late delivery
+1177,3923,2,Good quality
+1178,2722,1,Average
+1179,3863,3,Late delivery
+1180,2423,1,Excellent
+1181,2600,5,Good quality
+1182,36,5,Poor packaging
+1183,129,2,Average
+1184,1807,5,Poor packaging
+1185,4139,2,Late delivery
+1186,4356,5,Poor packaging
+1187,1034,2,Average
+1188,1494,4,Excellent
+1189,2449,5,Good quality
+1190,4895,1,Good quality
+1191,3979,2,Good quality
+1192,1046,5,Late delivery
+1193,248,4,Good quality
+1194,4498,4,Excellent
+1195,282,2,Late delivery
+1196,3607,3,Good quality
+1197,4040,2,Excellent
+1198,472,1,Average
+1199,4321,3,Late delivery
+1200,3917,2,Good quality
+1201,1179,1,Poor packaging
+1202,231,4,Average
+1203,2503,2,Poor packaging
+1204,881,1,Poor packaging
+1205,4555,1,Excellent
+1206,3795,4,Excellent
+1207,2189,3,Excellent
+1208,1197,1,Average
+1209,990,5,Poor packaging
+1210,2987,3,Good quality
+1211,376,3,Good quality
+1212,4223,4,Poor packaging
+1213,3377,4,Poor packaging
+1214,1281,4,Good quality
+1215,989,3,Poor packaging
+1216,4204,1,Poor packaging
+1217,372,1,Average
+1218,1151,1,Poor packaging
+1219,4450,2,Poor packaging
+1220,1854,1,Excellent
+1221,4526,2,Late delivery
+1222,2802,4,Poor packaging
+1223,4547,4,Poor packaging
+1224,3160,3,Good quality
+1225,3170,2,Poor packaging
+1226,236,1,Good quality
+1227,4230,1,Late delivery
+1228,2315,2,Good quality
+1229,518,5,Average
+1230,909,5,Late delivery
+1231,1204,1,Average
+1232,1279,5,Excellent
+1233,3785,5,Poor packaging
+1234,4389,2,Poor packaging
+1235,2798,5,Poor packaging
+1236,4838,1,Good quality
+1237,2489,4,Poor packaging
+1238,128,4,Excellent
+1239,4265,2,Poor packaging
+1240,63,5,Good quality
+1241,3584,4,Good quality
+1242,4199,4,Late delivery
+1243,3022,1,Average
+1244,4159,5,Good quality
+1245,1472,3,Excellent
+1246,4518,5,Poor packaging
+1247,4358,2,Late delivery
+1248,2746,2,Excellent
+1249,921,3,Average
+1250,4766,4,Excellent
+1251,4824,2,Poor packaging
+1252,1407,2,Average
+1253,2847,4,Late delivery
+1254,2719,2,Good quality
+1255,1983,5,Good quality
+1256,4167,1,Poor packaging
+1257,1466,4,Average
+1258,824,1,Good quality
+1259,1788,1,Good quality
+1260,1060,3,Excellent
+1261,251,3,Average
+1262,4057,4,Poor packaging
+1263,4153,2,Good quality
+1264,229,3,Average
+1265,4424,1,Poor packaging
+1266,941,3,Late delivery
+1267,4020,4,Late delivery
+1268,887,5,Good quality
+1269,2230,4,Average
+1270,2703,2,Average
+1271,3260,1,Late delivery
+1272,735,4,Poor packaging
+1273,832,1,Good quality
+1274,2299,3,Poor packaging
+1275,3776,5,Good quality
+1276,3464,1,Average
+1277,1855,1,Poor packaging
+1278,3384,2,Excellent
+1279,4603,4,Late delivery
+1280,4791,4,Late delivery
+1281,1103,2,Late delivery
+1282,1445,1,Good quality
+1283,4767,4,Good quality
+1284,1818,3,Poor packaging
+1285,288,4,Good quality
+1286,1545,1,Average
+1287,1872,5,Good quality
+1288,3588,4,Poor packaging
+1289,241,2,Late delivery
+1290,4326,4,Poor packaging
+1291,3676,4,Good quality
+1292,3695,2,Late delivery
+1293,2410,4,Poor packaging
+1294,1200,5,Good quality
+1295,4149,2,Poor packaging
+1296,5,4,Poor packaging
+1297,4423,1,Excellent
+1298,4120,4,Good quality
+1299,1696,5,Excellent
+1300,1373,1,Average
+1301,861,4,Poor packaging
+1302,1575,3,Late delivery
+1303,492,2,Late delivery
+1304,3809,3,Poor packaging
+1305,3806,4,Poor packaging
+1306,200,5,Average
+1307,4610,2,Poor packaging
+1308,1175,5,Average
+1309,2778,5,Good quality
+1310,871,1,Good quality
+1311,2676,3,Poor packaging
+1312,4480,1,Average
+1313,3714,3,Poor packaging
+1314,3601,4,Poor packaging
+1315,466,2,Late delivery
+1316,4140,3,Average
+1317,2518,3,Late delivery
+1318,2832,2,Average
+1319,4479,2,Good quality
+1320,356,4,Poor packaging
+1321,3970,3,Poor packaging
+1322,4735,2,Late delivery
+1323,4501,4,Average
+1324,3404,1,Poor packaging
+1325,2538,2,Excellent
+1326,1231,4,Poor packaging
+1327,2709,3,Excellent
+1328,305,3,Good quality
+1329,3995,2,Excellent
+1330,2301,5,Average
+1331,732,1,Poor packaging
+1332,3890,4,Average
+1333,2040,2,Poor packaging
+1334,2342,1,Good quality
+1335,3438,3,Poor packaging
+1336,72,1,Excellent
+1337,892,2,Good quality
+1338,2416,3,Late delivery
+1339,4257,5,Good quality
+1340,3905,3,Excellent
+1341,2065,3,Average
+1342,4252,5,Average
+1343,600,3,Excellent
+1344,1137,1,Late delivery
+1345,3459,4,Poor packaging
+1346,1319,2,Excellent
+1347,3517,3,Late delivery
+1348,773,5,Late delivery
+1349,3539,3,Poor packaging
+1350,4093,3,Excellent
+1351,193,1,Late delivery
+1352,1226,5,Late delivery
+1353,3328,3,Excellent
+1354,1864,5,Poor packaging
+1355,2704,3,Late delivery
+1356,1586,4,Good quality
+1357,3226,2,Good quality
+1358,4288,1,Late delivery
+1359,171,2,Average
+1360,3834,5,Late delivery
+1361,1062,1,Poor packaging
+1362,788,1,Poor packaging
+1363,2869,2,Excellent
+1364,4386,4,Poor packaging
+1365,1889,4,Average
+1366,1478,3,Good quality
+1367,3236,1,Good quality
+1368,2057,4,Late delivery
+1369,858,4,Excellent
+1370,3071,1,Average
+1371,2597,3,Average
+1372,2036,2,Late delivery
+1373,2900,2,Excellent
+1374,4314,1,Good quality
+1375,2901,5,Good quality
+1376,884,4,Average
+1377,4795,4,Excellent
+1378,2980,1,Excellent
+1379,1392,4,Late delivery
+1380,698,1,Late delivery
+1381,786,4,Average
+1382,349,1,Average
+1383,4620,4,Average
+1384,1510,5,Poor packaging
+1385,4271,5,Late delivery
+1386,4304,3,Late delivery
+1387,4449,2,Poor packaging
+1388,250,2,Excellent
+1389,2867,4,Late delivery
+1390,919,3,Good quality
+1391,4444,2,Late delivery
+1392,4779,2,Average
+1393,3563,2,Excellent
+1394,1047,4,Late delivery
+1395,897,1,Good quality
+1396,641,1,Excellent
+1397,3292,4,Late delivery
+1398,3333,1,Poor packaging
+1399,2525,4,Good quality
+1400,143,5,Poor packaging
+1401,4533,3,Late delivery
+1402,3440,1,Poor packaging
+1403,3430,1,Poor packaging
+1404,3045,4,Excellent
+1405,1112,3,Average
+1406,3569,5,Excellent
+1407,1559,4,Poor packaging
+1408,257,1,Poor packaging
+1409,564,1,Average
+1410,1636,3,Good quality
+1411,1692,1,Poor packaging
+1412,1386,1,Excellent
+1413,2773,1,Excellent
+1414,3850,4,Excellent
+1415,4191,5,Poor packaging
+1416,4583,5,Good quality
+1417,190,3,Good quality
+1418,1077,2,Poor packaging
+1419,73,4,Excellent
+1420,3870,1,Poor packaging
+1421,3287,5,Poor packaging
+1422,3987,1,Late delivery
+1423,414,5,Late delivery
+1424,4263,5,Late delivery
+1425,2507,4,Late delivery
+1426,3207,3,Poor packaging
+1427,2673,3,Good quality
+1428,4145,1,Poor packaging
+1429,2576,1,Poor packaging
+1430,1436,1,Excellent
+1431,4945,2,Late delivery
+1432,1268,2,Excellent
+1433,2178,5,Excellent
+1434,3939,2,Poor packaging
+1435,514,3,Excellent
+1436,4959,3,Excellent
+1437,1954,5,Average
+1438,2292,5,Excellent
+1439,1994,5,Late delivery
+1440,4627,3,Average
+1441,1775,5,Excellent
+1442,4902,1,Late delivery
+1443,4021,5,Good quality
+1444,642,1,Good quality
+1445,1091,3,Late delivery
+1446,2834,1,Good quality
+1447,4670,5,Good quality
+1448,4189,4,Poor packaging
+1449,4777,4,Good quality
+1450,2469,2,Average
+1451,1165,2,Excellent
+1452,3971,1,Late delivery
+1453,426,5,Excellent
+1454,2606,1,Average
+1455,3478,1,Average
+1456,3042,5,Poor packaging
+1457,4422,2,Late delivery
+1458,4771,5,Excellent
+1459,1967,3,Poor packaging
+1460,4275,5,Average
+1461,742,4,Good quality
+1462,1075,2,Excellent
+1463,3726,2,Poor packaging
+1464,2249,2,Average
+1465,2110,3,Good quality
+1466,3021,5,Excellent
+1467,4940,1,Late delivery
+1468,555,5,Late delivery
+1469,660,3,Late delivery
+1470,969,2,Late delivery
+1471,1846,5,Late delivery
+1472,3851,4,Excellent
+1473,3766,2,Poor packaging
+1474,2947,3,Late delivery
+1475,2047,1,Excellent
+1476,21,1,Late delivery
+1477,3152,3,Excellent
+1478,2896,1,Average
+1479,4747,3,Average
+1480,216,5,Average
+1481,4414,2,Poor packaging
+1482,412,2,Poor packaging
+1483,835,5,Poor packaging
+1484,3747,3,Average
+1485,1672,3,Average
+1486,4121,5,Poor packaging
+1487,1562,3,Poor packaging
+1488,3754,5,Good quality
+1489,2219,5,Excellent
+1490,383,3,Excellent
+1491,4469,4,Excellent
+1492,1848,1,Poor packaging
+1493,2927,4,Late delivery
+1494,3098,1,Poor packaging
+1495,1569,5,Average
+1496,539,2,Late delivery
+1497,2463,3,Excellent
+1498,2921,5,Excellent
+1499,2277,4,Excellent
+1500,4118,1,Late delivery
+1501,4208,2,Late delivery
+1502,3618,2,Average
+1503,754,1,Late delivery
+1504,4797,5,Late delivery
+1505,180,2,Good quality
+1506,3110,4,Excellent
+1507,3159,2,Poor packaging
+1508,2617,1,Good quality
+1509,137,4,Good quality
+1510,2254,2,Excellent
+1511,4489,4,Good quality
+1512,4542,4,Average
+1513,1485,5,Average
+1514,730,2,Excellent
+1515,3819,5,Poor packaging
+1516,2771,3,Excellent
+1517,51,4,Good quality
+1518,2438,4,Average
+1519,3073,2,Excellent
+1520,1458,5,Good quality
+1521,4357,4,Late delivery
+1522,2650,3,Excellent
+1523,1380,3,Late delivery
+1524,1013,2,Poor packaging
+1525,2421,1,Excellent
+1526,1762,2,Excellent
+1527,2616,4,Average
+1528,2574,1,Good quality
+1529,3894,1,Late delivery
+1530,2563,2,Average
+1531,4572,5,Average
+1532,802,5,Late delivery
+1533,3479,5,Late delivery
+1534,408,4,Excellent
+1535,2609,2,Excellent
+1536,4904,4,Poor packaging
+1537,1418,4,Average
+1538,4418,1,Excellent
+1539,2145,1,Poor packaging
+1540,1988,5,Late delivery
+1541,4217,3,Excellent
+1542,330,2,Poor packaging
+1543,4972,2,Excellent
+1544,3525,5,Excellent
+1545,336,1,Excellent
+1546,2829,4,Excellent
+1547,1116,1,Poor packaging
+1548,352,1,Average
+1549,2983,5,Late delivery
+1550,4840,2,Excellent
+1551,4792,5,Late delivery
+1552,3279,2,Late delivery
+1553,3056,2,Excellent
+1554,2886,4,Good quality
+1555,4284,1,Poor packaging
+1556,2419,5,Average
+1557,289,1,Excellent
+1558,3186,2,Good quality
+1559,3888,3,Late delivery
+1560,1491,5,Average
+1561,4858,4,Average
+1562,2974,3,Late delivery
+1563,2975,3,Poor packaging
+1564,1668,2,Good quality
+1565,3245,4,Average
+1566,1797,1,Average
+1567,4371,3,Average
+1568,584,1,Good quality
+1569,4587,4,Poor packaging
+1570,3494,4,Good quality
+1571,1007,4,Average
+1572,4661,3,Good quality
+1573,4980,3,Excellent
+1574,3918,1,Good quality
+1575,112,5,Late delivery
+1576,1193,4,Average
+1577,2370,2,Average
+1578,1965,4,Average
+1579,3954,3,Excellent
+1580,2407,5,Average
+1581,4107,2,Excellent
+1582,40,4,Poor packaging
+1583,1608,2,Good quality
+1584,2749,2,Excellent
+1585,4624,3,Average
+1586,1059,3,Poor packaging
+1587,1369,5,Late delivery
+1588,3350,3,Average
+1589,4066,5,Poor packaging
+1590,1310,5,Average
+1591,3570,3,Late delivery
+1592,3733,1,Average
+1593,782,5,Late delivery
+1594,571,5,Late delivery
+1595,4578,4,Average
+1596,176,2,Average
+1597,2,3,Excellent
+1598,1733,4,Good quality
+1599,4289,2,Average
+1600,3276,2,Average
+1601,4697,2,Average
+1602,3014,1,Poor packaging
+1603,3506,1,Average
+1604,2390,4,Late delivery
+1605,4949,2,Poor packaging
+1606,4576,5,Excellent
+1607,3604,2,Late delivery
+1608,517,1,Average
+1609,1260,1,Excellent
+1610,3966,1,Late delivery
+1611,1393,2,Poor packaging
+1612,607,4,Poor packaging
+1613,2216,2,Poor packaging
+1614,4135,4,Poor packaging
+1615,770,1,Good quality
+1616,169,3,Average
+1617,1556,2,Excellent
+1618,1214,5,Excellent
+1619,2098,5,Poor packaging
+1620,4822,5,Poor packaging
+1621,3554,3,Late delivery
+1622,1709,4,Poor packaging
+1623,3369,4,Late delivery
+1624,2845,1,Average
+1625,3248,1,Good quality
+1626,1814,3,Good quality
+1627,3574,4,Poor packaging
+1628,2841,4,Late delivery
+1629,3302,4,Average
+1630,3835,2,Poor packaging
+1631,2765,5,Poor packaging
+1632,2429,4,Average
+1633,4974,4,Excellent
+1634,4134,5,Late delivery
+1635,103,2,Poor packaging
+1636,1531,3,Excellent
+1637,339,1,Late delivery
+1638,4459,5,Poor packaging
+1639,2320,4,Good quality
+1640,2779,5,Average
+1641,3700,4,Excellent
+1642,2783,4,Excellent
+1643,4563,1,Good quality
+1644,3734,4,Excellent
+1645,497,4,Excellent
+1646,310,3,Excellent
+1647,1929,4,Late delivery
+1648,3407,5,Excellent
+1649,1353,1,Good quality
+1650,2932,1,Average
+1651,2170,3,Late delivery
+1652,2976,1,Poor packaging
+1653,1101,4,Average
+1654,2290,2,Poor packaging
+1655,304,1,Late delivery
+1656,2781,4,Excellent
+1657,4198,4,Excellent
+1658,3751,1,Late delivery
+1659,4852,5,Good quality
+1660,3099,3,Good quality
+1661,3219,5,Good quality
+1662,2777,2,Good quality
+1663,2462,4,Good quality
+1664,2662,5,Excellent
+1665,1321,4,Late delivery
+1666,4553,1,Poor packaging
+1667,3413,2,Excellent
+1668,519,1,Excellent
+1669,2549,4,Excellent
+1670,1297,2,Excellent
+1671,3932,5,Average
+1672,3264,5,Average
+1673,4232,4,Late delivery
+1674,30,5,Poor packaging
+1675,3210,2,Late delivery
+1676,4752,1,Good quality
+1677,821,4,Late delivery
+1678,3573,1,Poor packaging
+1679,516,4,Good quality
+1680,3896,3,Late delivery
+1681,3213,5,Good quality
+1682,2291,4,Good quality
+1683,276,4,Poor packaging
+1684,639,2,Average
+1685,3009,2,Excellent
+1686,2376,3,Good quality
+1687,590,3,Average
+1688,2695,4,Excellent
+1689,525,4,Poor packaging
+1690,605,4,Excellent
+1691,1655,3,Excellent
+1692,1003,1,Excellent
+1693,1909,5,Poor packaging
+1694,1030,2,Average
+1695,585,5,Late delivery
+1696,3953,5,Good quality
+1697,3093,2,Good quality
+1698,1428,1,Poor packaging
+1699,75,5,Poor packaging
+1700,2957,2,Average
+1701,2116,3,Good quality
+1702,3779,2,Excellent
+1703,651,3,Late delivery
+1704,2699,1,Poor packaging
+1705,102,2,Late delivery
+1706,3112,1,Poor packaging
+1707,1106,1,Poor packaging
+1708,3436,5,Poor packaging
+1709,2251,3,Good quality
+1710,1862,5,Good quality
+1711,2622,4,Late delivery
+1712,4381,1,Excellent
+1713,3865,2,Poor packaging
+1714,1167,5,Poor packaging
+1715,1315,5,Excellent
+1716,3686,2,Late delivery
+1717,1198,5,Excellent
+1718,2459,5,Poor packaging
+1719,4439,2,Excellent
+1720,2392,3,Excellent
+1721,4376,3,Good quality
+1722,2100,4,Excellent
+1723,3540,2,Good quality
+1724,3013,2,Late delivery
+1725,4157,1,Late delivery
+1726,4894,1,Late delivery
+1727,3797,5,Excellent
+1728,586,2,Poor packaging
+1729,3228,3,Good quality
+1730,551,1,Excellent
+1731,3546,4,Excellent
+1732,3142,4,Good quality
+1733,4141,5,Excellent
+1734,2908,1,Poor packaging
+1735,2204,2,Average
+1736,4924,2,Poor packaging
+1737,880,3,Good quality
+1738,4763,2,Late delivery
+1739,1496,3,Good quality
+1740,2339,1,Good quality
+1741,4492,5,Late delivery
+1742,41,1,Poor packaging
+1743,1042,3,Late delivery
+1744,549,3,Good quality
+1745,1822,1,Good quality
+1746,296,5,Poor packaging
+1747,3867,2,Average
+1748,4946,1,Average
+1749,334,4,Good quality
+1750,4896,5,Average
+1751,4679,5,Poor packaging
+1752,3944,5,Late delivery
+1753,2166,4,Good quality
+1754,548,3,Average
+1755,3602,4,Late delivery
+1756,3294,2,Good quality
+1757,1301,4,Average
+1758,4877,1,Poor packaging
+1759,134,2,Excellent
+1760,4772,2,Late delivery
+1761,1763,1,Excellent
+1762,1774,2,Average
+1763,2009,2,Average
+1764,4652,4,Good quality
+1765,4320,2,Good quality
+1766,4961,5,Late delivery
+1767,1314,1,Average
+1768,486,1,Average
+1769,2912,3,Average
+1770,1245,2,Average
+1771,2589,2,Late delivery
+1772,2448,3,Late delivery
+1773,846,2,Average
+1774,3417,1,Average
+1775,4711,1,Poor packaging
+1776,4694,4,Late delivery
+1777,1776,2,Late delivery
+1778,2721,1,Poor packaging
+1779,4843,2,Good quality
+1780,4212,5,Average
+1781,3185,2,Average
+1782,4197,1,Excellent
+1783,3283,1,Excellent
+1784,3183,1,Good quality
+1785,2634,1,Average
+1786,4104,3,Average
+1787,3080,5,Good quality
+1788,587,5,Good quality
+1789,567,5,Excellent
+1790,3447,3,Average
+1791,674,3,Average
+1792,4138,1,Average
+1793,354,2,Poor packaging
+1794,3630,2,Average
+1795,2300,4,Poor packaging
+1796,906,2,Late delivery
+1797,4704,2,Good quality
+1798,2786,4,Average
+1799,4490,4,Excellent
+1800,3074,3,Good quality
+1801,1276,4,Late delivery
+1802,4544,4,Excellent
+1803,4580,4,Excellent
+1804,597,3,Poor packaging
+1805,4013,1,Poor packaging
+1806,2452,2,Good quality
+1807,2016,3,Good quality
+1808,4491,1,Poor packaging
+1809,1833,3,Good quality
+1810,1525,3,Poor packaging
+1811,3845,2,Late delivery
+1812,25,3,Poor packaging
+1813,1102,1,Poor packaging
+1814,3836,3,Excellent
+1815,720,1,Average
+1816,2017,4,Average
+1817,2953,4,Excellent
+1818,1520,1,Excellent
+1819,14,1,Poor packaging
+1820,1096,5,Excellent
+1821,1683,3,Excellent
+1822,3241,1,Poor packaging
+1823,3118,1,Average
+1824,3179,3,Good quality
+1825,3412,2,Late delivery
+1826,4893,5,Poor packaging
+1827,1292,5,Good quality
+1828,4561,3,Late delivery
+1829,2554,1,Excellent
+1830,2929,3,Poor packaging
+1831,966,5,Average
+1832,1081,5,Good quality
+1833,4656,3,Good quality
+1834,26,3,Excellent
+1835,1964,3,Late delivery
+1836,212,1,Late delivery
+1837,446,3,Poor packaging
+1838,1895,3,Poor packaging
+1839,207,5,Late delivery
+1840,1117,1,Late delivery
+1841,3914,5,Good quality
+1842,297,3,Poor packaging
+1843,1916,1,Late delivery
+1844,4675,1,Good quality
+1845,1359,3,Poor packaging
+1846,97,3,Poor packaging
+1847,3493,1,Excellent
+1848,521,5,Average
+1849,756,1,Late delivery
+1850,1019,2,Late delivery
+1851,4467,3,Average
+1852,3208,3,Poor packaging
+1853,1519,2,Average
+1854,3907,4,Poor packaging
+1855,2649,2,Late delivery
+1856,524,5,Good quality
+1857,4366,1,Late delivery
+1858,4453,3,Excellent
+1859,2602,2,Average
+1860,2113,4,Good quality
+1861,2102,1,Average
+1862,1093,1,Good quality
+1863,211,2,Excellent
+1864,1374,5,Good quality
+1865,2027,2,Good quality
+1866,1322,5,Good quality
+1867,713,3,Late delivery
+1868,1015,1,Late delivery
+1869,4588,3,Excellent
+1870,1076,3,Poor packaging
+1871,3157,1,Excellent
+1872,1289,1,Average
+1873,2146,1,Good quality
+1874,823,5,Poor packaging
+1875,107,1,Average
+1876,1503,1,Poor packaging
+1877,1171,4,Average
+1878,3197,3,Late delivery
+1879,3790,2,Good quality
+1880,2088,3,Average
+1881,2323,5,Good quality
+1882,4798,4,Excellent
+1883,2685,1,Poor packaging
+1884,4641,1,Excellent
+1885,3724,4,Average
+1886,2066,5,Late delivery
+1887,1680,5,Late delivery
+1888,1216,1,Good quality
+1889,2566,4,Good quality
+1890,4009,2,Excellent
+1891,1805,3,Good quality
+1892,1947,4,Poor packaging
+1893,1114,1,Good quality
+1894,4277,4,Good quality
+1895,4487,1,Average
+1896,2077,4,Late delivery
+1897,4623,2,Good quality
+1898,332,3,Late delivery
+1899,4426,5,Good quality
+1900,1,4,Late delivery
+1901,830,5,Good quality
+1902,4178,3,Average
+1903,3862,3,Average
+1904,4558,4,Poor packaging
+1905,127,3,Excellent
+1906,1434,4,Poor packaging
+1907,2504,5,Excellent
+1908,2592,4,Excellent
+1909,1128,4,Late delivery
+1910,1544,5,Excellent
+1911,4130,5,Late delivery
+1912,3844,4,Average
+1913,3431,2,Good quality
+1914,4064,2,Excellent
+1915,2632,5,Poor packaging
+1916,3740,3,Excellent
+1917,2354,1,Excellent
+1918,2619,3,Average
+1919,3881,4,Poor packaging
+1920,4541,4,Poor packaging
+1921,3234,3,Excellent
+1922,2307,1,Poor packaging
+1923,2594,2,Late delivery
+1924,1553,1,Excellent
+1925,1467,3,Poor packaging
+1926,2068,5,Good quality
+1927,326,4,Average
+1928,3761,2,Average
+1929,321,3,Late delivery
+1930,454,5,Excellent
+1931,1468,5,Good quality
+1932,3645,1,Good quality
+1933,3242,5,Average
+1934,899,5,Late delivery
+1935,2913,2,Average
+1936,3710,4,Excellent
+1937,39,3,Poor packaging
+1938,4579,1,Good quality
+1939,4794,3,Average
+1940,2790,1,Poor packaging
+1941,3643,2,Poor packaging
+1942,3450,2,Good quality
+1943,4133,5,Good quality
+1944,1960,3,Excellent
+1945,1529,1,Late delivery
+1946,4001,2,Average
+1947,1792,1,Good quality
+1948,4998,4,Late delivery
+1949,3473,5,Poor packaging
+1950,3094,3,Average
+1951,48,4,Poor packaging
+1952,1328,3,Poor packaging
+1953,230,2,Late delivery
+1954,1052,5,Late delivery
+1955,867,2,Average
+1956,1948,5,Excellent
+1957,4643,2,Average
+1958,4678,1,Good quality
+1959,407,3,Good quality
+1960,2661,4,Good quality
+1961,2539,3,Average
+1962,646,2,Late delivery
+1963,2356,3,Excellent
+1964,540,2,Average
+1965,2061,3,Average
+1966,2089,4,Excellent
+1967,3134,2,Average
+1968,1254,4,Good quality
+1969,3266,1,Poor packaging
+1970,4052,4,Excellent
+1971,1871,3,Excellent
+1972,2988,2,Average
+1973,2561,5,Late delivery
+1974,1882,4,Late delivery
+1975,2537,1,Late delivery
+1976,4909,2,Good quality
+1977,1530,3,Average
+1978,4126,4,Late delivery
+1979,654,4,Average
+1980,4976,5,Average
+1981,1951,1,Poor packaging
+1982,343,4,Poor packaging
+1983,353,1,Average
+1984,1835,1,Average
+1985,622,2,Poor packaging
+1986,478,1,Good quality
+1987,3425,5,Excellent
+1988,3015,2,Good quality
+1989,574,1,Good quality
+1990,3446,3,Excellent
+1991,3156,4,Late delivery
+1992,457,1,Excellent
+1993,2835,2,Poor packaging
+1994,2809,1,Average
+1995,944,5,Average
+1996,4457,2,Average
+1997,827,4,Excellent
+1998,3023,3,Good quality
+1999,3758,1,Average
+2000,3696,5,Good quality
+2001,1817,3,Average
+2002,670,4,Good quality
+2003,3448,2,Excellent
+2004,467,4,Poor packaging
+2005,1979,2,Good quality
+2006,1345,1,Poor packaging
+2007,2618,1,Late delivery
+2008,1950,3,Average
+2009,3762,3,Average
+2010,2422,5,Poor packaging
+2011,4662,1,Poor packaging
+2012,2364,3,Late delivery
+2013,3420,5,Average
+2014,665,4,Good quality
+2015,4649,1,Poor packaging
+2016,839,3,Poor packaging
+2017,4101,5,Poor packaging
+2018,1293,2,Average
+2019,130,5,Poor packaging
+2020,4470,5,Average
+2021,351,2,Poor packaging
+2022,1355,3,Late delivery
+2023,3853,3,Poor packaging
+2024,2568,3,Good quality
+2025,552,2,Late delivery
+2026,1677,3,Late delivery
+2027,2795,5,Average
+2028,2555,3,Late delivery
+2029,432,4,Average
+2030,2241,4,Good quality
+2031,950,4,Good quality
+2032,2688,5,Good quality
+2033,4851,4,Poor packaging
+2034,3882,2,Good quality
+2035,1511,3,Excellent
+2036,2126,2,Average
+2037,2772,4,Average
+2038,3925,4,Late delivery
+2039,1416,3,Late delivery
+2040,4158,4,Average
+2041,277,3,Poor packaging
+2042,3488,2,Good quality
+2043,2511,2,Good quality
+2044,3775,2,Average
+2045,1376,2,Average
+2046,3391,3,Excellent
+2047,2918,1,Good quality
+2048,1159,5,Late delivery
+2049,1009,3,Excellent
+2050,2244,5,Late delivery
+2051,3037,4,Poor packaging
+2052,3209,3,Poor packaging
+2053,281,1,Late delivery
+2054,371,5,Average
+2055,3858,2,Poor packaging
+2056,4819,1,Good quality
+2057,233,3,Late delivery
+2058,844,2,Poor packaging
+2059,2567,2,Good quality
+2060,2708,3,Late delivery
+2061,94,3,Poor packaging
+2062,4393,5,Average
+2063,3465,4,Excellent
+2064,3760,3,Good quality
+2065,1604,2,Good quality
+2066,1577,3,Poor packaging
+2067,795,5,Good quality
+2068,2310,1,Poor packaging
+2069,1275,2,Excellent
+2070,4043,3,Late delivery
+2071,462,4,Excellent
+2072,2890,2,Excellent
+2073,532,1,Poor packaging
+2074,59,5,Good quality
+2075,2303,5,Average
+2076,2813,5,Excellent
+2077,1711,3,Excellent
+2078,4625,2,Good quality
+2079,3981,2,Excellent
+2080,2933,3,Average
+2081,463,2,Poor packaging
+2082,1730,4,Good quality
+2083,4095,2,Late delivery
+2084,1161,4,Good quality
+2085,4465,4,Average
+2086,2435,3,Late delivery
+2087,1611,1,Good quality
+2088,2030,3,Average
+2089,4249,2,Excellent
+2090,2250,3,Excellent
+2091,4956,1,Good quality
+2092,1482,1,Good quality
+2093,1026,1,Excellent
+2094,1324,1,Poor packaging
+2095,3926,3,Late delivery
+2096,153,1,Good quality
+2097,925,2,Average
+2098,3461,1,Average
+2099,3055,4,Excellent
+2100,1719,1,Average
+2101,2233,5,Excellent
+2102,2916,2,Good quality
+2103,3571,2,Excellent
+2104,2939,2,Excellent
+2105,3031,2,Late delivery
+2106,1257,5,Good quality
+2107,2266,3,Average
+2108,3609,2,Excellent
+2109,4273,1,Excellent
+2110,1671,4,Poor packaging
+2111,1331,4,Poor packaging
+2112,663,2,Excellent
+2113,4341,5,Late delivery
+2114,2044,3,Excellent
+2115,3255,4,Poor packaging
+2116,4755,3,Excellent
+2117,4601,1,Late delivery
+2118,4083,5,Good quality
+2119,292,3,Excellent
+2120,2626,1,Good quality
+2121,1782,1,Good quality
+2122,3340,5,Average
+2123,1691,1,Average
+2124,2697,4,Excellent
+2125,2728,4,Average
+2126,4633,2,Late delivery
+2127,2735,1,Average
+2128,4773,4,Excellent
+2129,2187,1,Average
+2130,1585,4,Poor packaging
+2131,3698,1,Late delivery
+2132,4582,5,Late delivery
+2133,3103,5,Good quality
+2134,2730,2,Excellent
+2135,1741,2,Late delivery
+2136,4832,5,Excellent
+2137,4903,5,Poor packaging
+2138,58,2,Excellent
+2139,649,4,Excellent
+2140,3468,1,Poor packaging
+2141,3428,3,Poor packaging
+2142,4228,1,Late delivery
+2143,3048,5,Average
+2144,3610,5,Excellent
+2145,1122,3,Late delivery
+2146,3254,4,Good quality
+2147,2831,3,Excellent
+2148,3390,2,Poor packaging
+2149,1463,5,Average
+2150,2519,1,Poor packaging
+2151,2271,2,Poor packaging
+2152,2654,2,Excellent
+2153,1619,3,Late delivery
+2154,4517,3,Late delivery
+2155,4891,2,Excellent
+2156,2286,4,Late delivery
+2157,4854,4,Poor packaging
+2158,31,3,Good quality
+2159,870,4,Average
+2160,513,2,Average
+2161,727,2,Poor packaging
+2162,2994,5,Average
+2163,1382,3,Poor packaging
+2164,4196,5,Excellent
+2165,452,1,Good quality
+2166,2252,3,Late delivery
+2167,1232,4,Good quality
+2168,544,5,Average
+2169,3735,4,Late delivery
+2170,783,3,Average
+2171,4168,3,Poor packaging
+2172,4427,4,Excellent
+2173,2796,3,Average
+2174,1223,5,Poor packaging
+2175,672,5,Poor packaging
+2176,3341,3,Excellent
+2177,331,3,Late delivery
+2178,4660,3,Good quality
+2179,2140,4,Excellent
+2180,3344,4,Late delivery
+2181,4431,5,Average
+2182,3423,1,Poor packaging
+2183,2175,5,Excellent
+2184,2049,5,Good quality
+2185,675,2,Good quality
+2186,295,4,Excellent
+2187,2139,4,Excellent
+2188,1149,3,Average
+2189,738,4,Excellent
+2190,4999,4,Late delivery
+2191,291,2,Average
+2192,2131,2,Late delivery
+2193,114,3,Average
+2194,2711,1,Poor packaging
+2195,4900,1,Poor packaging
+2196,775,4,Average
+2197,2245,2,Good quality
+2198,2064,5,Average
+2199,2417,5,Late delivery
+2200,1025,5,Poor packaging
+2201,3168,2,Average
+2202,4082,2,Excellent
+2203,1150,2,Good quality
+2204,874,1,Excellent
+2205,3991,2,Average
+2206,323,3,Late delivery
+2207,4383,5,Average
+2208,4614,5,Average
+2209,743,1,Poor packaging
+2210,1031,1,Poor packaging
+2211,1621,3,Good quality
+2212,3167,5,Poor packaging
+2213,2651,4,Late delivery
+2214,68,2,Late delivery
+2215,1866,1,Poor packaging
+2216,1913,2,Late delivery
+2217,3049,4,Average
+2218,676,4,Good quality
+2219,2163,4,Late delivery
+2220,382,1,Good quality
+2221,3683,1,Poor packaging
+2222,225,5,Excellent
+2223,1497,2,Good quality
+2224,3631,2,Average
+2225,4184,1,Average
+2226,4820,3,Good quality
+2227,298,4,Average
+2228,4207,3,Poor packaging
+2229,2325,1,Excellent
+2230,2999,2,Poor packaging
+2231,2902,3,Excellent
+2232,3781,2,Excellent
+2233,2836,2,Good quality
+2234,4510,4,Average
+2235,611,3,Excellent
+2236,3803,1,Good quality
+2237,739,4,Good quality
+2238,3282,4,Excellent
+2239,4100,4,Good quality
+2240,1643,5,Excellent
+2241,355,2,Late delivery
+2242,1272,4,Late delivery
+2243,4156,4,Average
+2244,3912,3,Poor packaging
+2245,252,2,Poor packaging
+2246,946,3,Good quality
+2247,1739,3,Good quality
+2248,1131,2,Late delivery
+2249,1836,1,Poor packaging
+2250,1356,5,Good quality
+2251,3481,1,Poor packaging
+2252,377,3,Average
+2253,1893,3,Average
+2254,2792,2,Good quality
+2255,4382,1,Excellent
+2256,4806,2,Average
+2257,1751,5,Good quality
+2258,3895,5,Poor packaging
+2259,2180,4,Late delivery
+2260,2352,4,Average
+2261,800,4,Good quality
+2262,1188,1,Good quality
+2263,2726,5,Good quality
+2264,2995,1,Late delivery
+2265,1844,4,Excellent
+2266,535,2,Good quality
+2267,1215,3,Good quality
+2268,388,1,Late delivery
+2269,1333,4,Late delivery
+2270,4721,1,Average
+2271,1971,4,Good quality
+2272,3619,5,Poor packaging
+2273,2533,4,Poor packaging
+2274,705,3,Poor packaging
+2275,3689,4,Good quality
+2276,1157,2,Average
+2277,826,3,Poor packaging
+2278,3774,1,Late delivery
+2279,2659,5,Late delivery
+2280,242,4,Good quality
+2281,1153,1,Good quality
+2282,487,5,Late delivery
+2283,1464,4,Excellent
+2284,3613,5,Average
+2285,820,1,Excellent
+2286,3590,4,Poor packaging
+2287,3194,4,Late delivery
+2288,4117,5,Poor packaging
+2289,4063,2,Late delivery
+2290,627,1,Average
+2291,3089,4,Poor packaging
+2292,1032,3,Good quality
+2293,1787,4,Average
+2294,1236,5,Late delivery
+2295,1547,1,Late delivery
+2296,2359,4,Poor packaging
+2297,2234,2,Average
+2298,166,2,Poor packaging
+2299,394,4,Late delivery
+2300,1488,5,Average
+2301,4392,5,Average
+2302,4443,3,Late delivery
+2303,1394,1,Good quality
+2304,4647,2,Average
+2305,4425,3,Late delivery
+2306,4345,5,Good quality
+2307,2794,4,Excellent
+2308,2226,2,Excellent
+2309,1933,2,Late delivery
+2310,3311,1,Average
+2311,2631,1,Good quality
+2312,4137,1,Excellent
+2313,2217,5,Average
+2314,2615,4,Average
+2315,1460,4,Poor packaging
+2316,1253,4,Good quality
+2317,580,1,Good quality
+2318,361,5,Good quality
+2319,2992,5,Late delivery
+2320,4871,2,Poor packaging
+2321,4565,4,Good quality
+2322,2473,2,Excellent
+2323,4783,4,Excellent
+2324,2008,1,Excellent
+2325,957,5,Good quality
+2326,3484,2,Excellent
+2327,1652,3,Late delivery
+2328,1140,3,Poor packaging
+2329,4240,5,Average
+2330,206,3,Late delivery
+2331,558,4,Average
+2332,4857,3,Excellent
+2333,3528,2,Average
+2334,1176,1,Poor packaging
+2335,4519,2,Excellent
+2336,3269,5,Excellent
+2337,2949,1,Good quality
+2338,2439,2,Average
+2339,3271,3,Average
+2340,4248,1,Good quality
+2341,2383,4,Excellent
+2342,4435,3,Average
+2343,4325,1,Late delivery
+2344,4692,4,Average
+2345,3172,1,Good quality
+2346,118,3,Late delivery
+2347,701,1,Excellent
+2348,4012,2,Poor packaging
+2349,4051,2,Good quality
+2350,4339,4,Poor packaging
+2351,911,5,Good quality
+2352,3490,4,Average
+2353,4460,3,Excellent
+2354,4618,4,Excellent
+2355,2412,3,Excellent
+2356,3253,2,Good quality
+2357,3666,5,Good quality
+2358,2830,4,Late delivery
+2359,2018,5,Excellent
+2360,3289,2,Poor packaging
+2361,1187,1,Poor packaging
+2362,4746,4,Good quality
+2363,2231,3,Average
+2364,2515,2,Poor packaging
+2365,4488,1,Good quality
+2366,3531,5,Late delivery
+2367,1699,3,Poor packaging
+2368,1241,3,Poor packaging
+2369,2319,4,Late delivery
+2370,469,5,Excellent
+2371,4070,3,Late delivery
+2372,4602,5,Excellent
+2373,865,5,Excellent
+2374,1084,3,Good quality
+2375,1918,4,Good quality
+2376,4728,3,Late delivery
+2377,3521,2,Poor packaging
+2378,2471,4,Excellent
+2379,669,1,Late delivery
+2380,3901,2,Average
+2381,3184,5,Good quality
+2382,4888,1,Poor packaging
+2383,3829,2,Average
+2384,4534,5,Average
+2385,612,2,Good quality
+2386,1616,4,Excellent
+2387,13,2,Late delivery
+2388,1385,4,Late delivery
+2389,889,1,Excellent
+2390,801,5,Excellent
+2391,3378,4,Excellent
+2392,4214,3,Late delivery
+2393,3777,3,Excellent
+2394,2743,2,Excellent
+2395,3884,2,Average
+2396,3489,4,Excellent
+2397,2744,2,Excellent
+2398,1397,2,Poor packaging
+2399,4984,2,Excellent
+2400,1625,1,Poor packaging
+2401,3177,3,Average
+2402,902,3,Average
+2403,4532,1,Late delivery
+2404,1794,4,Late delivery
+2405,4514,2,Average
+2406,4281,2,Good quality
+2407,2052,2,Average
+2408,4846,2,Late delivery
+2409,3600,4,Good quality
+2410,3634,2,Good quality
+2411,2920,4,Late delivery
+2412,719,5,Late delivery
+2413,1756,3,Poor packaging
+2414,589,5,Poor packaging
+2415,2243,5,Excellent
+2416,2372,1,Average
+2417,4621,3,Late delivery
+2418,3320,1,Average
+2419,3611,4,Late delivery
+2420,4738,1,Average
+2421,4841,1,Good quality
+2422,2717,4,Poor packaging
+2423,1614,2,Poor packaging
+2424,2256,4,Late delivery
+2425,3663,4,Poor packaging
+2426,688,2,Poor packaging
+2427,3176,4,Good quality
+2428,1242,5,Excellent
+2429,3357,3,Average
+2430,4337,3,Late delivery
+2431,2774,2,Late delivery
+2432,3119,3,Good quality
+2433,4996,1,Late delivery
+2434,2678,3,Poor packaging
+2435,4605,3,Good quality
+2436,4632,1,Average
+2437,3830,1,Late delivery
+2438,4053,3,Poor packaging
+2439,302,5,Poor packaging
+2440,1799,1,Good quality
+2441,204,2,Late delivery
+2442,1206,1,Excellent
+2443,1493,4,Good quality
+2444,109,4,Poor packaging
+2445,1728,4,Average
+2446,3576,1,Late delivery
+2447,1183,4,Excellent
+2448,1551,2,Good quality
+2449,4068,1,Excellent
+2450,4530,4,Excellent
+2451,601,3,Good quality
+2452,1772,1,Excellent
+2453,4960,2,Excellent
+2454,253,3,Average
+2455,293,2,Poor packaging
+2456,2411,2,Good quality
+2457,313,5,Poor packaging
+2458,1731,2,Excellent
+2459,2946,2,Average
+2460,1285,4,Excellent
+2461,4872,3,Average
+2462,1022,1,Excellent
+2463,1542,3,Average
+2464,2727,3,Good quality
+2465,822,4,Average
+2466,984,2,Good quality
+2467,2492,3,Excellent
+2468,3007,1,Late delivery
+2469,4375,5,Late delivery
+2470,759,3,Late delivery
+2471,1280,1,Excellent
+2472,2776,3,Excellent
+2473,2236,5,Good quality
+2474,368,4,Good quality
+2475,1705,5,Average
+2476,2431,3,Excellent
+2477,4110,1,Late delivery
+2478,573,4,Good quality
+2479,543,1,Average
+2480,1703,2,Good quality
+2481,2520,4,Late delivery
+2482,2467,5,Good quality
+2483,4372,1,Late delivery
+2484,2801,3,Poor packaging
+2485,3952,2,Poor packaging
+2486,333,2,Average
+2487,657,5,Good quality
+2488,1605,5,Average
+2489,424,4,Average
+2490,530,4,Late delivery
+2491,2819,4,Good quality
+2492,1415,4,Poor packaging
+2493,4968,5,Excellent
+2494,4990,5,Excellent
+2495,4037,1,Excellent
+2496,4973,4,Excellent
+2497,1166,1,Excellent
+2498,2956,5,Good quality
+2499,1218,4,Average
+2500,329,3,Good quality
+2501,3927,3,Excellent
+2502,554,4,Average
+2503,4742,2,Average
+2504,2865,3,Late delivery
+2505,1425,5,Excellent
+2506,746,1,Good quality
+2507,4071,4,Average
+2508,2260,5,Good quality
+2509,2114,2,Average
+2510,201,1,Good quality
+2511,4173,2,Poor packaging
+2512,427,3,Late delivery
+2513,895,3,Good quality
+2514,2891,2,Average
+2515,4933,4,Average
+2516,3205,2,Poor packaging
+2517,2424,4,Late delivery
+2518,2565,1,Average
+2519,2470,3,Late delivery
+2520,1442,5,Excellent
+2521,2107,5,Good quality
+2522,578,5,Poor packaging
+2523,4205,2,Excellent
+2524,2849,3,Excellent
+2525,357,1,Late delivery
+2526,2481,1,Poor packaging
+2527,1972,3,Poor packaging
+2528,2713,3,Poor packaging
+2529,306,2,Late delivery
+2530,3998,4,Excellent
+2531,1443,3,Excellent
+2532,2038,5,Good quality
+2533,4405,2,Excellent
+2534,389,2,Poor packaging
+2535,3054,1,Poor packaging
+2536,2246,5,Excellent
+2537,3382,3,Average
+2538,3755,4,Average
+2539,508,5,Average
+2540,4789,1,Poor packaging
+2541,3355,2,Excellent
+2542,2071,1,Good quality
+2543,706,4,Late delivery
+2544,1501,4,Good quality
+2545,4754,4,Good quality
+2546,527,3,Excellent
+2547,4069,5,Excellent
+2548,4441,5,Excellent
+2549,146,1,Good quality
+2550,3980,2,Late delivery
+2551,3081,3,Average
+2552,1063,5,Good quality
+2553,3948,1,Poor packaging
+2554,3794,5,Poor packaging
+2555,1186,2,Poor packaging
+2556,2367,4,Good quality
+2557,1229,1,Average
+2558,3111,3,Late delivery
+2559,3564,1,Good quality
+2560,4849,5,Excellent
+2561,3227,1,Late delivery
+2562,4379,4,Average
+2563,3660,1,Average
+2564,4609,1,Excellent
+2565,840,3,Good quality
+2566,2123,4,Excellent
+2567,3524,2,Good quality
+2568,2400,1,Poor packaging
+2569,2941,3,Good quality
+2570,3656,1,Excellent
+2571,3096,3,Good quality
+2572,851,1,Late delivery
+2573,2327,1,Average
+2574,3381,5,Late delivery
+2575,3931,1,Average
+2576,344,2,Average
+2577,3175,4,Good quality
+2578,766,3,Excellent
+2579,4094,4,Poor packaging
+2580,4420,3,Average
+2581,4546,3,Poor packaging
+2582,3551,2,Good quality
+2583,219,2,Excellent
+2584,3653,1,Excellent
+2585,3595,5,Poor packaging
+2586,1239,5,Late delivery
+2587,4604,1,Average
+2588,3877,3,Excellent
+2589,534,4,Excellent
+2590,2625,5,Late delivery
+2591,267,4,Excellent
+2592,3083,1,Late delivery
+2593,3299,2,Poor packaging
+2594,4691,5,Average
+2595,4776,2,Average
+2596,2500,3,Good quality
+2597,933,2,Average
+2598,4813,5,Good quality
+2599,2514,5,Good quality
+2600,4863,4,Good quality
+2601,4926,1,Good quality
+2602,4853,1,Poor packaging
+2603,4143,5,Poor packaging
+2604,1196,1,Excellent
+2605,1921,5,Average
+2606,1043,3,Average
+2607,1523,3,Average
+2608,4073,5,Good quality
+2609,3462,5,Excellent
+2610,2212,5,Average
+2611,3555,5,Good quality
+2612,316,4,Average
+2613,616,2,Excellent
+2614,2177,2,Average
+2615,3006,1,Average
+2616,1127,3,Good quality
+2617,433,2,Poor packaging
+2618,3880,2,Good quality
+2619,2391,4,Late delivery
+2620,4592,2,Average
+2621,84,1,Excellent
+2622,2598,1,Late delivery
+2623,86,5,Late delivery
+2624,4397,3,Good quality
+2625,2235,5,Average
+2626,4780,5,Poor packaging
+2627,954,5,Late delivery
+2628,2218,3,Good quality
+2629,78,5,Excellent
+2630,2516,3,Excellent
+2631,43,3,Late delivery
+2632,164,1,Poor packaging
+2633,1065,1,Average
+2634,1688,5,Good quality
+2635,3437,3,Good quality
+2636,3275,1,Late delivery
+2637,2935,1,Late delivery
+2638,3522,5,Poor packaging
+2639,3455,1,Good quality
+2640,191,4,Poor packaging
+2641,1473,4,Excellent
+2642,144,3,Good quality
+2643,1975,1,Average
+2644,2871,4,Late delivery
+2645,595,4,Late delivery
+2646,4901,3,Late delivery
+2647,3855,2,Good quality
+2648,1839,3,Poor packaging
+2649,817,4,Poor packaging
+2650,3883,4,Poor packaging
+2651,1662,5,Poor packaging
+2652,4862,4,Poor packaging
+2653,4821,3,Late delivery
+2654,4429,2,Excellent
+2655,1908,4,Average
+2656,2316,5,Average
+2657,1595,3,Excellent
+2658,2966,4,Late delivery
+2659,37,4,Late delivery
+2660,2125,2,Average
+2661,395,5,Late delivery
+2662,4509,3,Poor packaging
+2663,2314,2,Excellent
+2664,3909,2,Poor packaging
+2665,1201,4,Excellent
+2666,3916,2,Good quality
+2667,4112,4,Late delivery
+2668,4717,2,Good quality
+2669,223,5,Excellent
+2670,4447,3,Poor packaging
+2671,1724,2,Good quality
+2672,2309,1,Late delivery
+2673,4391,1,Poor packaging
+2674,1746,4,Good quality
+2675,2158,3,Average
+2676,2701,3,Good quality
+2677,3682,1,Good quality
+2678,838,2,Poor packaging
+2679,599,1,Average
+2680,3670,5,Average
+2681,776,4,Good quality
+2682,2371,1,Good quality
+2683,1249,3,Excellent
+2684,1710,4,Good quality
+2685,3623,3,Good quality
+2686,1992,3,Good quality
+2687,3725,3,Excellent
+2688,3453,3,Late delivery
+2689,860,5,Excellent
+2690,638,2,Average
+2691,56,3,Poor packaging
+2692,3500,2,Average
+2693,617,1,Good quality
+2694,1738,3,Late delivery
+2695,2757,3,Excellent
+2696,373,3,Good quality
+2697,2510,3,Late delivery
+2698,1627,1,Good quality
+2699,2428,4,Good quality
+2700,507,3,Average
+2701,3383,4,Good quality
+2702,3273,5,Late delivery
+2703,1669,1,Average
+2704,1538,4,Average
+2705,3374,3,Excellent
+2706,4629,3,Late delivery
+2707,810,3,Good quality
+2708,2875,3,Poor packaging
+2709,3148,5,Poor packaging
+2710,2938,1,Good quality
+2711,285,4,Good quality
+2712,3597,4,Excellent
+2713,3295,4,Late delivery
+2714,4032,4,Late delivery
+2715,4201,3,Average
+2716,3463,2,Poor packaging
+2717,1986,5,Good quality
+2718,4400,4,Poor packaging
+2719,2472,1,Excellent
+2720,3300,3,Excellent
+2721,4898,4,Late delivery
+2722,1995,3,Poor packaging
+2723,3872,3,Average
+2724,2888,5,Average
+2725,1779,2,Average
+2726,2621,1,Poor packaging
+2727,3823,1,Good quality
+2728,2058,3,Excellent
+2729,4937,5,Poor packaging
+2730,2997,1,Excellent
+2731,1351,3,Late delivery
+2732,438,1,Good quality
+2733,2714,2,Average
+2734,4287,4,Good quality
+2735,327,4,Excellent
+2736,1781,5,Poor packaging
+2737,2096,5,Poor packaging
+2738,1444,4,Excellent
+2739,346,1,Poor packaging
+2740,4761,1,Late delivery
+2741,749,1,Excellent
+2742,1522,4,Average
+2743,728,3,Poor packaging
+2744,1812,1,Poor packaging
+2745,2143,2,Excellent
+2746,4045,3,Average
+2747,745,1,Good quality
+2748,317,4,Good quality
+2749,145,4,Late delivery
+2750,1944,4,Late delivery
+2751,12,2,Late delivery
+2752,4986,2,Poor packaging
+2753,2729,4,Good quality
+2754,4712,2,Good quality
+2755,1244,1,Late delivery
+2756,4352,5,Excellent
+2757,2240,2,Good quality
+2758,3386,2,Good quality
+2759,2437,1,Good quality
+2760,3039,2,Average
+2761,1629,5,Average
+2762,4626,2,Late delivery
+2763,100,5,Poor packaging
+2764,3223,2,Late delivery
+2765,34,5,Good quality
+2766,3744,1,Good quality
+2767,1831,5,Excellent
+2768,465,1,Good quality
+2769,1337,3,Poor packaging
+2770,482,4,Excellent
+2771,980,4,Average
+2772,239,5,Good quality
+2773,2858,5,Late delivery
+2774,1754,2,Late delivery
+2775,1532,2,Late delivery
+2776,4549,1,Late delivery
+2777,3694,4,Excellent
+2778,4611,1,Late delivery
+2779,2340,5,Late delivery
+2780,973,2,Good quality
+2781,2715,4,Excellent
+2782,1949,5,Average
+2783,1390,5,Poor packaging
+2784,3387,2,Excellent
+2785,2702,1,Good quality
+2786,3606,1,Good quality
+2787,413,3,Late delivery
+2788,495,3,Late delivery
+2789,2132,2,Excellent
+2790,1135,2,Poor packaging
+2791,949,1,Excellent
+2792,2268,3,Poor packaging
+2793,733,1,Average
+2794,3805,2,Good quality
+2795,2405,1,Poor packaging
+2796,71,2,Good quality
+2797,1027,2,Poor packaging
+2798,2682,4,Late delivery
+2799,1601,4,Good quality
+2800,3516,5,Poor packaging
+2801,3727,4,Late delivery
+2802,1804,5,Good quality
+2803,3312,1,Poor packaging
+2804,2680,2,Average
+2805,3406,1,Average
+2806,988,4,Poor packaging
+2807,613,1,Poor packaging
+2808,4671,5,Good quality
+2809,4302,4,Good quality
+2810,3614,4,Good quality
+2811,3173,4,Good quality
+2812,900,4,Good quality
+2813,3646,1,Poor packaging
+2814,3985,3,Average
+2815,3158,1,Good quality
+2816,3705,3,Good quality
+2817,1973,2,Excellent
+2818,1263,2,Average
+2819,920,2,Good quality
+2820,4359,5,Good quality
+2821,4127,4,Average
+2822,3421,4,Excellent
+2823,3338,4,Late delivery
+2824,2948,4,Late delivery
+2825,879,4,Late delivery
+2826,2962,5,Excellent
+2827,528,2,Poor packaging
+2828,996,1,Late delivery
+2829,1023,2,Average
+2830,2824,5,Excellent
+2831,4308,1,Average
+2832,2937,2,Excellent
+2833,3497,1,Late delivery
+2834,3310,1,Poor packaging
+2835,626,4,Good quality
+2836,3977,3,Excellent
+2837,3746,3,Average
+2838,959,4,Average
+2839,4261,5,Poor packaging
+2840,3849,1,Average
+2841,3873,5,Excellent
+2842,3788,3,Average
+2843,2959,4,Poor packaging
+2844,4511,3,Good quality
+2845,83,4,Good quality
+2846,3988,1,Late delivery
+2847,4266,1,Late delivery
+2848,4024,1,Good quality
+2849,1139,3,Average
+2850,148,5,Good quality
+2851,4770,2,Late delivery
+2852,46,3,Average
+2853,1743,1,Poor packaging
+2854,3615,2,Average
+2855,4523,4,Poor packaging
+2856,1744,1,Late delivery
+2857,1987,3,Excellent
+2858,2129,5,Excellent
+2859,834,3,Excellent
+2860,4365,4,Excellent
+2861,3076,5,Poor packaging
+2862,4831,1,Good quality
+2863,1044,3,Excellent
+2864,1146,3,Late delivery
+2865,4676,1,Late delivery
+2866,265,1,Poor packaging
+2867,4560,2,Late delivery
+2868,4634,3,Excellent
+2869,1561,3,Late delivery
+2870,2840,3,Late delivery
+2871,1412,3,Average
+2872,3708,1,Good quality
+2873,4042,1,Excellent
+2874,1477,1,Good quality
+2875,631,3,Excellent
+2876,338,2,Average
+2877,442,3,Good quality
+2878,4958,4,Average
+2879,6,2,Good quality
+2880,2108,1,Late delivery
+2881,2545,3,Good quality
+2882,3652,4,Late delivery
+2883,753,4,Late delivery
+2884,1536,5,Good quality
+2885,818,4,Good quality
+2886,3379,1,Good quality
+2887,2965,4,Excellent
+2888,1265,4,Average
+2889,4699,5,Average
+2890,4864,3,Excellent
+2891,4244,4,Good quality
+2892,280,3,Late delivery
+2893,1759,2,Average
+2894,1517,5,Average
+2895,2874,2,Excellent
+2896,1271,5,Excellent
+2897,2232,1,Good quality
+2898,3322,2,Excellent
+2899,4056,3,Good quality
+2900,4114,4,Average
+2901,3703,5,Poor packaging
+2902,710,1,Average
+2903,4267,2,Average
+2904,717,3,Average
+2905,4741,3,Excellent
+2906,4072,1,Late delivery
+2907,3753,1,Average
+2908,1587,4,Good quality
+2909,1827,5,Poor packaging
+2910,110,4,Poor packaging
+2911,1104,2,Average
+2912,3778,5,Average
+2913,3969,5,Late delivery
+2914,119,1,Excellent
+2915,3057,2,Late delivery
+2916,335,2,Excellent
+2917,4109,3,Excellent
+2918,3491,2,Excellent
+2919,3756,5,Good quality
+2920,4176,3,Late delivery
+2921,3924,1,Excellent
+2922,3211,3,Good quality
+2923,3471,3,Average
+2924,2149,2,Late delivery
+2925,4936,3,Good quality
+2926,4262,5,Poor packaging
+2927,2333,1,Average
+2928,1856,5,Excellent
+2929,509,5,Poor packaging
+2930,3108,3,Good quality
+2931,3986,2,Late delivery
+2932,4086,4,Late delivery
+2933,1078,3,Good quality
+2934,2753,5,Late delivery
+2935,4690,5,Late delivery
+2936,232,2,Late delivery
+2937,456,5,Average
+2938,2322,3,Late delivery
+2939,4914,3,Good quality
+2940,3392,3,Excellent
+2941,1708,5,Average
+2942,1957,2,Excellent
+2943,348,4,Late delivery
+2944,1766,3,Average
+2945,1160,2,Excellent
+2946,3126,2,Excellent
+2947,3324,5,Late delivery
+2948,797,1,Excellent
+2949,1639,3,Good quality
+2950,956,2,Poor packaging
+2951,1427,4,Excellent
+2952,2700,5,Late delivery
+2953,561,4,Excellent
+2954,409,4,Poor packaging
+2955,3585,4,Poor packaging
+2956,2348,3,Late delivery
+2957,4630,2,Average
+2958,4387,5,Poor packaging
+2959,3922,1,Average
+2960,4793,2,Poor packaging
+2961,4856,5,Average
+2962,3868,3,Average
+2963,1288,5,Excellent
+2964,4119,2,Late delivery
+2965,546,1,Excellent
+2966,1675,3,Average
+2967,1049,2,Good quality
+2968,430,2,Poor packaging
+2969,3469,4,Poor packaging
+2970,4342,2,Good quality
+2971,318,3,Good quality
+2972,1783,5,Late delivery
+2973,3224,2,Average
+2974,3351,4,Average
+2975,4220,4,Excellent
+2976,1645,2,Poor packaging
+2977,1432,4,Poor packaging
+2978,1598,5,Good quality
+2979,1767,4,Late delivery
+2980,4193,4,Excellent
+2981,3647,4,Poor packaging
+2982,4942,5,Good quality
+2983,4399,3,Average
+2984,2357,5,Poor packaging
+2985,3996,4,Poor packaging
+2986,3329,5,Late delivery
+2987,4211,5,Late delivery
+2988,1300,3,Excellent
+2989,494,5,Poor packaging
+2990,963,3,Excellent
+2991,2846,1,Good quality
+2992,1205,5,Poor packaging
+2993,3368,4,Late delivery
+2994,1476,2,Poor packaging
+2995,926,3,Excellent
+2996,4734,2,Good quality
+2997,831,5,Average
+2998,1441,5,Late delivery
+2999,4481,2,Poor packaging
+3000,2215,4,Good quality
+3001,723,4,Excellent
+3002,3364,1,Late delivery
+3003,2536,2,Good quality
+3004,3066,2,Poor packaging
+3005,3496,5,Poor packaging
+3006,4331,3,Average
+3007,3331,4,Excellent
+3008,2440,3,Average
+3009,2630,1,Average
+3010,1832,2,Good quality
+3011,328,3,Average
+3012,1714,3,Late delivery
+3013,3958,2,Good quality
+3014,1238,4,Excellent
+3015,3512,3,Late delivery
+3016,2482,3,Poor packaging
+3017,3963,4,Excellent
+3018,2943,1,Good quality
+3019,2374,4,Average
+3020,4557,3,Average
+3021,3596,4,Late delivery
+3022,4215,2,Poor packaging
+3023,4241,5,Late delivery
+3024,729,2,Late delivery
+3025,1338,4,Poor packaging
+3026,3654,4,Excellent
+3027,696,1,Poor packaging
+3028,1579,1,Excellent
+3029,2409,4,Good quality
+3030,2255,1,Poor packaging
+3031,2785,1,Average
+3032,2069,5,Excellent
+3033,2758,4,Late delivery
+3034,4702,2,Good quality
+3035,644,3,Average
+3036,708,2,Excellent
+3037,3246,4,Good quality
+3038,3802,2,Average
+3039,198,2,Good quality
+3040,1648,4,Good quality
+3041,1558,1,Poor packaging
+3042,4861,1,Late delivery
+3043,679,1,Excellent
+3044,4830,5,Average
+3045,3337,5,Good quality
+3046,3707,2,Good quality
+3047,1270,1,Late delivery
+3048,3502,4,Average
+3049,4290,3,Late delivery
+3050,1172,5,Average
+3051,4461,4,Excellent
+3052,3457,2,Late delivery
+3053,724,5,Average
+3054,3090,4,Good quality
+3055,3149,3,Good quality
+3056,3376,5,Poor packaging
+3057,493,2,Excellent
+3058,2321,5,Good quality
+3059,3968,3,Excellent
+3060,3782,1,Excellent
+3061,1495,3,Late delivery
+3062,3921,3,Average
+3063,748,1,Excellent
+3064,1170,3,Late delivery
+3065,3957,1,Poor packaging
+3066,2415,1,Excellent
+3067,458,1,Average
+3068,2073,2,Excellent
+3069,4608,5,Poor packaging
+3070,3231,1,Poor packaging
+3071,1737,3,Poor packaging
+3072,3154,5,Average
+3073,3745,3,Late delivery
+3074,1687,2,Average
+3075,4343,5,Excellent
+3076,3191,3,Excellent
+3077,4720,5,Poor packaging
+3078,523,4,Poor packaging
+3079,1054,1,Poor packaging
+3080,4803,3,Good quality
+3081,3887,2,Late delivery
+3082,2720,2,Late delivery
+3083,266,2,Excellent
+3084,2120,2,Good quality
+3085,2907,5,Excellent
+3086,3102,5,Excellent
+3087,1306,3,Good quality
+3088,3052,1,Excellent
+3089,712,5,Average
+3090,2814,3,Average
+3091,4202,5,Poor packaging
+3092,192,2,Excellent
+3093,220,1,Average
+3094,3857,2,Good quality
+3095,2443,1,Average
+3096,2144,5,Excellent
+3097,488,2,Average
+3098,4615,5,Good quality
+3099,659,3,Excellent
+3100,108,5,Poor packaging
+3101,2742,3,Good quality
+3102,4016,2,Good quality
+3103,1923,2,Average
+3104,2513,2,Poor packaging
+3105,1006,2,Poor packaging
+3106,3891,5,Good quality
+3107,2194,3,Good quality
+3108,3349,3,Average
+3109,4905,1,Late delivery
+3110,741,5,Good quality
+3111,1203,5,Late delivery
+3112,4282,3,Late delivery
+3113,1749,4,Excellent
+3114,3128,2,Poor packaging
+3115,4218,5,Poor packaging
+3116,4989,5,Poor packaging
+3117,569,1,Average
+3118,2451,4,Late delivery
+3119,505,1,Good quality
+3120,4233,4,Good quality
+3121,4682,1,Average
+3122,3131,1,Average
+3123,3065,2,Good quality
+3124,1446,5,Good quality
+3125,4148,4,Late delivery
+3126,2588,4,Average
+3127,2775,4,Poor packaging
+3128,238,4,Poor packaging
+3129,2655,3,Late delivery
+3130,2095,5,Poor packaging
+3131,4015,3,Late delivery
+3132,195,1,Late delivery
+3133,1391,3,Excellent
+3134,2020,3,Average
+3135,2173,2,Poor packaging
+3136,2167,2,Poor packaging
+3137,1430,1,Good quality
+3138,1999,2,Excellent
+3139,1071,3,Average
+3140,1308,1,Late delivery
+3141,2458,1,Poor packaging
+3142,868,5,Late delivery
+3143,1939,1,Excellent
+3144,736,4,Poor packaging
+3145,3100,1,Late delivery
+3146,1609,1,Poor packaging
+3147,3206,3,Good quality
+3148,4658,4,Average
+3149,4569,4,Excellent
+3150,1934,5,Poor packaging
+3151,287,5,Poor packaging
+3152,1801,5,Excellent
+3153,181,1,Poor packaging
+3154,3721,3,Poor packaging
+3155,1581,3,Good quality
+3156,4436,4,Late delivery
+3157,62,4,Excellent
+3158,4231,5,Good quality
+3159,2564,1,Poor packaging
+3160,4906,4,Good quality
+3161,4362,1,Average
+3162,1004,1,Good quality
+3163,54,4,Average
+3164,117,5,Average
+3165,4543,5,Good quality
+3166,451,5,Poor packaging
+3167,2150,5,Late delivery
+3168,3578,2,Excellent
+3169,459,2,Excellent
+3170,3906,3,Poor packaging
+3171,2436,1,Average
+3172,455,4,Average
+3173,4243,4,Poor packaging
+3174,4818,2,Good quality
+3175,1512,2,Excellent
+3176,1521,4,Poor packaging
+3177,170,2,Average
+3178,4464,4,Good quality
+3179,1184,3,Poor packaging
+3180,1269,2,Poor packaging
+3181,4079,2,Good quality
+3182,3466,3,Poor packaging
+3183,667,3,Poor packaging
+3184,1905,3,Late delivery
+3185,2395,5,Poor packaging
+3186,3990,2,Late delivery
+3187,4594,1,Excellent
+3188,3678,1,Good quality
+3189,3842,2,Average
+3190,4562,3,Late delivery
+3191,1793,2,Late delivery
+3192,300,2,Excellent
+3193,3792,2,Excellent
+3194,3639,1,Poor packaging
+3195,3235,5,Good quality
+3196,1498,4,Average
+3197,4179,5,Late delivery
+3198,4004,3,Late delivery
+3199,4463,4,Average
+3200,2652,2,Poor packaging
+3201,2186,4,Poor packaging
+3202,77,1,Late delivery
+3203,1869,1,Excellent
+3204,4251,3,Average
+3205,2964,1,Excellent
+3206,1917,3,Good quality
+3207,449,2,Poor packaging
+3208,2614,5,Average
+3209,4125,3,Poor packaging
+3210,1378,4,Average
+3211,440,4,Good quality
+3212,1732,4,Good quality
+3213,4031,5,Excellent
+3214,8,4,Good quality
+3215,2973,1,Average
+3216,4036,2,Late delivery
+3217,104,4,Poor packaging
+3218,4437,5,Good quality
+3219,4164,4,Late delivery
+3220,4046,1,Poor packaging
+3221,565,2,Poor packaging
+3222,610,2,Poor packaging
+3223,635,3,Poor packaging
+3224,4115,1,Late delivery
+3225,731,2,Excellent
+3226,1129,2,Good quality
+3227,3317,1,Good quality
+3228,791,5,Excellent
+3229,655,2,Average
+3230,1806,4,Average
+3231,4837,2,Poor packaging
+3232,1935,1,Late delivery
+3233,2060,2,Excellent
+3234,3674,5,Excellent
+3235,4390,4,Poor packaging
+3236,1829,3,Excellent
+3237,4369,4,Late delivery
+3238,3617,3,Late delivery
+3239,643,3,Excellent
+3240,3960,4,Poor packaging
+3241,3147,1,Excellent
+3242,1694,1,Late delivery
+3243,188,1,Poor packaging
+3244,4347,1,Excellent
+3245,1344,2,Poor packaging
+3246,2308,2,Poor packaging
+3247,1438,1,Good quality
+3248,1546,5,Average
+3249,1483,2,Late delivery
+3250,123,5,Late delivery
+3251,484,3,Excellent
+3252,386,2,Poor packaging
+3253,3632,2,Average
+3254,1424,3,Late delivery
+3255,4433,3,Good quality
+3256,1612,4,Late delivery
+3257,3713,2,Poor packaging
+3258,4172,2,Average
+3259,4322,5,Excellent
+3260,3691,1,Late delivery
+3261,1181,1,Good quality
+3262,2182,4,Average
+3263,2483,2,Poor packaging
+3264,3280,4,Excellent
+3265,3268,4,Late delivery
+3266,4870,3,Good quality
+3267,2579,4,Excellent
+3268,2812,4,Excellent
+3269,3748,3,Excellent
+3270,1474,3,Good quality
+3271,692,4,Good quality
+3272,4023,5,Average
+3273,2393,3,Average
+3274,2635,3,Average
+3275,2312,3,Good quality
+3276,60,3,Excellent
+3277,3444,2,Poor packaging
+3278,3315,4,Excellent
+3279,4910,5,Average
+3280,3808,5,Late delivery
+3281,945,1,Good quality
+3282,893,1,Good quality
+3283,3750,5,Poor packaging
+3284,2897,3,Good quality
+3285,2171,1,Good quality
+3286,218,1,Good quality
+3287,272,3,Late delivery
+3288,2905,3,Late delivery
+3289,2225,2,Poor packaging
+3290,1156,2,Average
+3291,3633,1,Good quality
+3292,1753,4,Poor packaging
+3293,3120,1,Excellent
+3294,805,5,Excellent
+3295,850,2,Excellent
+3296,33,4,Average
+3297,2529,3,Poor packaging
+3298,1481,2,Late delivery
+3299,3414,1,Good quality
+3300,2808,2,Excellent
+3301,3509,4,Excellent
+3302,4428,2,Late delivery
+3303,142,3,Average
+3304,1564,5,Late delivery
+3305,4018,3,Late delivery
+3306,4957,3,Average
+3307,3470,5,Good quality
+3308,2524,2,Average
+3309,303,2,Excellent
+3310,2343,4,Excellent
+3311,2528,2,Excellent
+3312,3718,3,Poor packaging
+3313,765,4,Good quality
+3314,2046,3,Good quality
+3315,2043,3,Average
+3316,1455,1,Late delivery
+3317,4144,2,Good quality
+3318,3869,2,Average
+3319,4076,1,Late delivery
+3320,419,2,Average
+3321,3486,5,Good quality
+3322,2313,1,Average
+3323,1769,1,Excellent
+3324,520,3,Poor packaging
+3325,2787,1,Excellent
+3326,2384,1,Average
+3327,1748,1,Average
+3328,2636,1,Good quality
+3329,3612,4,Poor packaging
+3330,2546,4,Good quality
+3331,2608,2,Good quality
+3332,1996,3,Late delivery
+3333,3664,2,Average
+3334,914,1,Late delivery
+3335,3675,4,Average
+3336,780,5,Good quality
+3337,2712,2,Excellent
+3338,4575,1,Poor packaging
+3339,2119,4,Excellent
+3340,2806,1,Excellent
+3341,47,4,Late delivery
+3342,4570,2,Excellent
+3343,1036,3,Good quality
+3344,3565,1,Good quality
+3345,3928,3,Good quality
+3346,2578,2,Good quality
+3347,2944,5,Poor packaging
+3348,1993,3,Good quality
+3349,4971,4,Poor packaging
+3350,1941,3,Excellent
+3351,793,5,Excellent
+3352,582,1,Good quality
+3353,2789,5,Average
+3354,2084,2,Good quality
+3355,90,3,Average
+3356,2373,2,Late delivery
+3357,418,3,Poor packaging
+3358,269,1,Excellent
+3359,3893,4,Average
+3360,2527,2,Good quality
+3361,4151,1,Excellent
+3362,2134,3,Excellent
+3363,2442,4,Good quality
+3364,781,2,Good quality
+3365,1465,4,Late delivery
+3366,2807,1,Excellent
+3367,3738,2,Poor packaging
+3368,2272,3,Good quality
+3369,979,5,Average
+3370,2198,2,Poor packaging
+3371,4237,4,Average
+3372,2656,5,Late delivery
+3373,4077,2,Poor packaging
+3374,4239,5,Late delivery
+3375,3026,5,Good quality
+3376,3876,3,Excellent
+3377,583,5,Good quality
+3378,4301,3,Late delivery
+3379,633,1,Late delivery
+3380,4982,4,Poor packaging
+3381,3822,2,Average
+3382,2247,1,Late delivery
+3383,3078,1,Excellent
+3384,1325,2,Poor packaging
+3385,2686,5,Good quality
+3386,4785,4,Good quality
+3387,151,5,Poor packaging
+3388,3181,3,Good quality
+3389,3752,1,Good quality
+3390,337,1,Poor packaging
+3391,1583,4,Good quality
+3392,4285,3,Good quality
+3393,1336,1,Excellent
+3394,876,1,Poor packaging
+3395,4784,3,Late delivery
+3396,978,4,Late delivery
+3397,2487,1,Good quality
+3398,79,2,Good quality
+3399,556,3,Average
+3400,2755,3,Average
+3401,930,5,Good quality
+3402,3508,5,Good quality
+3403,4019,2,Late delivery
+3404,3913,3,Poor packaging
+3405,2092,5,Good quality
+3406,1878,3,Late delivery
+3407,3281,5,Average
+3408,1144,3,Excellent
+3409,3265,5,Poor packaging
+3410,2736,5,Average
+3411,132,3,Poor packaging
+3412,2302,1,Average
+3413,1664,3,Average
+3414,2689,4,Good quality
+3415,3581,1,Average
+3416,4398,1,Poor packaging
+3417,2553,2,Good quality
+3418,3307,5,Average
+3419,1567,2,Average
+3420,3644,1,Average
+3421,4113,1,Good quality
+3422,661,3,Good quality
+3423,2477,4,Late delivery
+3424,1348,4,Poor packaging
+3425,2054,2,Good quality
+3426,20,4,Late delivery
+3427,4677,2,Poor packaging
+3428,3192,2,Average
+3429,2004,3,Poor packaging
+3430,2541,4,Excellent
+3431,1870,2,Late delivery
+3432,4,4,Excellent
+3433,640,5,Good quality
+3434,268,3,Excellent
+3435,263,4,Average
+3436,4551,2,Good quality
+3437,2015,5,Poor packaging
+3438,4409,4,Excellent
+3439,3467,4,Excellent
+3440,3298,4,Poor packaging
+3441,1082,3,Excellent
+3442,2542,1,Good quality
+3443,2581,4,Poor packaging
+3444,4814,4,Good quality
+3445,3233,1,Excellent
+3446,4195,3,Late delivery
+3447,189,3,Excellent
+3448,4967,3,Average
+3449,1946,3,Excellent
+3450,2287,4,Poor packaging
+3451,4724,1,Good quality
+3452,3530,5,Average
+3453,1796,4,Excellent
+3454,3222,2,Poor packaging
+3455,2583,2,Poor packaging
+3456,3886,3,Good quality
+3457,3361,3,Average
+3458,3072,4,Good quality
+3459,1227,5,Late delivery
+3460,2532,3,Excellent
+3461,2647,2,Poor packaging
+3462,3405,3,Excellent
+3463,4525,4,Average
+3464,2821,1,Poor packaging
+3465,767,3,Late delivery
+3466,2611,1,Average
+3467,4297,3,Late delivery
+3468,3575,3,Late delivery
+3469,3681,3,Good quality
+3470,904,3,Late delivery
+3471,4988,4,Late delivery
+3472,1067,4,Excellent
+3473,3284,1,Poor packaging
+3474,1707,3,Late delivery
+3475,4769,5,Average
+3476,3180,4,Poor packaging
+3477,3040,5,Good quality
+3478,2253,3,Poor packaging
+3479,757,5,Average
+3480,1262,3,Poor packaging
+3481,3092,5,Late delivery
+3482,1454,4,Average
+3483,4260,4,Excellent
+3484,2160,4,Average
+3485,139,1,Excellent
+3486,249,4,Good quality
+3487,228,2,Good quality
+3488,2805,1,Excellent
+3489,379,3,Average
+3490,2453,3,Poor packaging
+3491,4181,3,Good quality
+3492,3787,4,Late delivery
+3493,1142,3,Average
+3494,2972,2,Good quality
+3495,3861,1,Poor packaging
+3496,3373,2,Good quality
+3497,1658,3,Poor packaging
+3498,4950,2,Average
+3499,3859,1,Average
+3500,2165,4,Excellent
